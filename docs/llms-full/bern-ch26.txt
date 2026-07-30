@@ -1,0 +1,64 @@
+# Bern — Switzerland Administrative Divisions
+
+> 11 districts
+> Code: CH26
+> Coordinates: 46.796, 7.613
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Bern (unincorporated)
+
+Code: CH26D10, Coordinates: 46.688, 7.721
+
+
+### Bern-Mittelland
+
+Code: CH26D05, Coordinates: 46.9, 7.46
+
+
+### Biel/Bienne
+
+Code: CH26D09, Coordinates: 47.138, 7.269
+
+
+### Emmental
+
+Code: CH26D04, Coordinates: 46.961, 7.792
+
+
+### Frutigen-Niedersimmental
+
+Code: CH26D03, Coordinates: 46.564, 7.626
+
+
+### Interlaken-Oberhasli
+
+Code: CH26D01, Coordinates: 46.655, 8.122
+
+
+### Jura bernois
+
+Code: CH26D06, Coordinates: 47.217, 7.21
+
+
+### Oberaargau
+
+Code: CH26D08, Coordinates: 47.179, 7.773
+
+
+### Obersimmental-Saanen
+
+Code: CH26D02, Coordinates: 46.474, 7.358
+
+
+### Seeland
+
+Code: CH26D07, Coordinates: 47.056, 7.291
+
+
+### Thun
+
+Code: CH26D11, Coordinates: 46.774, 7.707
+
+

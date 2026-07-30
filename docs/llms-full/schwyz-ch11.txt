@@ -1,0 +1,39 @@
+# Schwyz — Switzerland Administrative Divisions
+
+> 6 districts
+> Code: CH11
+> Coordinates: 47.063, 8.777
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Einsiedeln
+
+Code: CH11D01, Coordinates: 47.125, 8.778
+
+
+### Gersau
+
+Code: CH11D03, Coordinates: 46.999, 8.528
+
+
+### Hofe
+
+Code: CH11D05, Coordinates: 47.188, 8.741
+
+
+### Kussnacht
+
+Code: CH11D02, Coordinates: 47.086, 8.456
+
+
+### March
+
+Code: CH11D06, Coordinates: 47.15, 8.904
+
+
+### Schwyz
+
+Code: CH11D04, Coordinates: 47.019, 8.69
+
+

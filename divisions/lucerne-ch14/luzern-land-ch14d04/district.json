@@ -1,0 +1,45 @@
+{
+  "id": "CH14D04",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Luzern-Land",
+    "en": "Luzern-Land",
+    "slug": "luzern-land-ch14d04"
+  },
+  "code": {
+    "id": "CH14D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH14",
+    "level": 1,
+    "name": {
+      "local": "Luzern",
+      "en": "Lucerne",
+      "slug": "lucerne-ch14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.022",
+    "lon": "8.269"
+  },
+  "metadata": {},
+  "source": {}
+}

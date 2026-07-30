@@ -1,0 +1,860 @@
+[
+  {
+    "id": "CH01",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Glarus",
+      "en": "Glarus",
+      "slug": "glarus-ch01"
+    },
+    "code": {
+      "id": "CH01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.978",
+      "lon": "9.063"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/glarus-ch01/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH02",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Graubünden",
+      "en": "Graubunden",
+      "slug": "graubunden-ch02"
+    },
+    "code": {
+      "id": "CH02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.674",
+      "lon": "9.719"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/graubunden-ch02/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH03",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Zug",
+      "en": "Zug",
+      "slug": "zug-ch03"
+    },
+    "code": {
+      "id": "CH03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.157",
+      "lon": "8.537"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/zug-ch03/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH04",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ticino",
+      "en": "Ticino",
+      "slug": "ticino-ch04"
+    },
+    "code": {
+      "id": "CH04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.332",
+      "lon": "8.815"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/ticino-ch04/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH05",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Appenzell Innerrhoden",
+      "en": "Appenzell Innerrhoden",
+      "slug": "appenzell-innerrhoden-ch05"
+    },
+    "code": {
+      "id": "CH05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.307",
+      "lon": "9.402"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/appenzell-innerrhoden-ch05/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH06",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Valais",
+      "en": "Valais",
+      "slug": "valais-ch06"
+    },
+    "code": {
+      "id": "CH06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.196",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/valais-ch06/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH07",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Schaffhausen",
+      "en": "Schaffhausen",
+      "slug": "schaffhausen-ch07"
+    },
+    "code": {
+      "id": "CH07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.725",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/schaffhausen-ch07/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH08",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Genève",
+      "en": "Geneva",
+      "slug": "geneva-ch08"
+    },
+    "code": {
+      "id": "CH08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.196",
+      "lon": "6.128"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/geneva-ch08/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH09",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Basel-Stadt",
+      "en": "Basel-City",
+      "slug": "basel-city-ch09"
+    },
+    "code": {
+      "id": "CH09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.558",
+      "lon": "7.599"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/basel-city-ch09/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH10",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Fribourg",
+      "en": "Fribourg",
+      "slug": "fribourg-ch10"
+    },
+    "code": {
+      "id": "CH10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.693",
+      "lon": "7.101"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/fribourg-ch10/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH11",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Schwyz",
+      "en": "Schwyz",
+      "slug": "schwyz-ch11"
+    },
+    "code": {
+      "id": "CH11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.063",
+      "lon": "8.777"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/schwyz-ch11/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH12",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Zürich",
+      "en": "Zurich",
+      "slug": "zurich-ch12"
+    },
+    "code": {
+      "id": "CH12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.39",
+      "lon": "8.661"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/zurich-ch12/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH13",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nidwalden",
+      "en": "Nidwalden",
+      "slug": "nidwalden-ch13"
+    },
+    "code": {
+      "id": "CH13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.933",
+      "lon": "8.405"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/nidwalden-ch13/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH14",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Luzern",
+      "en": "Lucerne",
+      "slug": "lucerne-ch14"
+    },
+    "code": {
+      "id": "CH14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.093",
+      "lon": "8.077"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/lucerne-ch14/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH15",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Vaud",
+      "en": "Vaud",
+      "slug": "vaud-ch15"
+    },
+    "code": {
+      "id": "CH15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.643",
+      "lon": "6.59"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/vaud-ch15/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH16",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Aargau",
+      "en": "Aargau",
+      "slug": "aargau-ch16"
+    },
+    "code": {
+      "id": "CH16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.43",
+      "lon": "8.182"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/aargau-ch16/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH17",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Thurgau",
+      "en": "Thurgau",
+      "slug": "thurgau-ch17"
+    },
+    "code": {
+      "id": "CH17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.587",
+      "lon": "9.063"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/thurgau-ch17/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH18",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "St. Gallen",
+      "en": "Saint Gallen",
+      "slug": "saint-gallen-ch18"
+    },
+    "code": {
+      "id": "CH18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.115",
+      "lon": "9.331"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/saint-gallen-ch18/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH19",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Jura",
+      "en": "Jura",
+      "slug": "jura-ch19"
+    },
+    "code": {
+      "id": "CH19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.374",
+      "lon": "7.132"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/jura-ch19/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH20",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Appenzell Ausserrhoden",
+      "en": "Appenzell Ausserrhoden",
+      "slug": "appenzell-ausserrhoden-ch20"
+    },
+    "code": {
+      "id": "CH20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.355",
+      "lon": "9.274"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/appenzell-ausserrhoden-ch20/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH21",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Neuchâtel",
+      "en": "Neuchatel",
+      "slug": "neuchatel-ch21"
+    },
+    "code": {
+      "id": "CH21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.002",
+      "lon": "6.807"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/neuchatel-ch21/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH22",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Basel-Landschaft",
+      "en": "Basel-Country",
+      "slug": "basel-country-ch22"
+    },
+    "code": {
+      "id": "CH22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.431",
+      "lon": "7.775"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/basel-country-ch22/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH23",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Solothurn",
+      "en": "Solothurn",
+      "slug": "solothurn-ch23"
+    },
+    "code": {
+      "id": "CH23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.23",
+      "lon": "7.535"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/solothurn-ch23/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH24",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Obwalden",
+      "en": "Obwalden",
+      "slug": "obwalden-ch24"
+    },
+    "code": {
+      "id": "CH24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.865",
+      "lon": "8.225"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/obwalden-ch24/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH25",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Uri",
+      "en": "Uri",
+      "slug": "uri-ch25"
+    },
+    "code": {
+      "id": "CH25",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.812",
+      "lon": "8.629"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/uri-ch25/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  },
+  {
+    "id": "CH26",
+    "level": 1,
+    "level_name": {
+      "local": "Kanton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bern",
+      "en": "Bern",
+      "slug": "bern-ch26"
+    },
+    "code": {
+      "id": "CH26",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.796",
+      "lon": "7.613"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ch/cantons/bern-ch26/",
+      "api": "https://openadmindata.org/api/ch/"
+    }
+  }
+]

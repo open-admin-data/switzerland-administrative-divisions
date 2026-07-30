@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CH07D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oberklettgau",
+      "en": "Oberklettgau",
+      "slug": "oberklettgau-ch07d04"
+    },
+    "code": {
+      "id": "CH07D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.687",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Reiat",
+      "en": "Reiat",
+      "slug": "reiat-ch07d03"
+    },
+    "code": {
+      "id": "CH07D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.757",
+      "lon": "8.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Schaffhausen",
+      "en": "Schaffhausen",
+      "slug": "schaffhausen-ch07d05"
+    },
+    "code": {
+      "id": "CH07D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.723",
+      "lon": "8.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Schleitheim",
+      "en": "Schleitheim",
+      "slug": "schleitheim-ch07d02"
+    },
+    "code": {
+      "id": "CH07D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.755",
+      "lon": "8.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stein",
+      "en": "Stein",
+      "slug": "stein-ch07d06"
+    },
+    "code": {
+      "id": "CH07D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.693",
+      "lon": "8.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Unterklettgau",
+      "en": "Unterklettgau",
+      "slug": "unterklettgau-ch07d01"
+    },
+    "code": {
+      "id": "CH07D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.694",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

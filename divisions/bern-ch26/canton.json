@@ -1,0 +1,33 @@
+{
+  "id": "CH26",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Bern",
+    "en": "Bern",
+    "slug": "bern-ch26"
+  },
+  "code": {
+    "id": "CH26",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.796",
+    "lon": "7.613"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/bern-ch26/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

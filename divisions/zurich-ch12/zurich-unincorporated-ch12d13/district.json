@@ -1,0 +1,45 @@
+{
+  "id": "CH12D13",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zurich (unincorporated)",
+    "en": "Zurich (unincorporated)",
+    "slug": "zurich-unincorporated-ch12d13"
+  },
+  "code": {
+    "id": "CH12D13",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH12",
+    "level": 1,
+    "name": {
+      "local": "Zürich",
+      "en": "Zurich",
+      "slug": "zurich-ch12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.233",
+    "lon": "8.699"
+  },
+  "metadata": {},
+  "source": {}
+}

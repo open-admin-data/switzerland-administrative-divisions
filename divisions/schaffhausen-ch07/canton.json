@@ -1,0 +1,33 @@
+{
+  "id": "CH07",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Schaffhausen",
+    "en": "Schaffhausen",
+    "slug": "schaffhausen-ch07"
+  },
+  "code": {
+    "id": "CH07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.725",
+    "lon": "8.562"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/schaffhausen-ch07/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

@@ -1,0 +1,24 @@
+# Jura — Switzerland Administrative Divisions
+
+> 3 districts
+> Code: CH19
+> Coordinates: 47.374, 7.132
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Delemont
+
+Code: CH19D01, Coordinates: 47.361, 7.296
+
+
+### Les Franches-Montagnes
+
+Code: CH19D02, Coordinates: 47.247, 7.004
+
+
+### Porrentruy
+
+Code: CH19D03, Coordinates: 47.413, 7.097
+
+

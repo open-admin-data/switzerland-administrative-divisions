@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+CH16D09,Aarau,Aarau,aarau-ch16d09,CH16D09,47.386,8.07
+CH16D03,Baden,Baden,baden-ch16d03,CH16D03,47.453,8.313
+CH16D05,Bremgarten,Bremgarten,bremgarten-ch16d05,CH16D05,47.37,8.269
+CH16D10,Brugg,Brugg,brugg-ch16d10,CH16D10,47.486,8.173
+CH16D08,Kulm,Kulm,kulm-ch16d08,CH16D08,47.291,8.139
+CH16D07,Laufenburg,Laufenburg,laufenburg-ch16d07,CH16D07,47.507,8.032
+CH16D11,Lenzburg,Lenzburg,lenzburg-ch16d11,CH16D11,47.375,8.178
+CH16D01,Muri,Muri,muri-ch16d01,CH16D01,47.252,8.358
+CH16D06,Rheinfelden,Rheinfelden,rheinfelden-ch16d06,CH16D06,47.556,7.875
+CH16D04,Zofingen,Zofingen,zofingen-ch16d04,CH16D04,47.28,7.91
+CH16D02,Zurzach,Zurzach,zurzach-ch16d02,CH16D02,47.548,8.301

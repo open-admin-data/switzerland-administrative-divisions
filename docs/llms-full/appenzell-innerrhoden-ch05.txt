@@ -1,0 +1,14 @@
+# Appenzell Innerrhoden — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH05
+> Coordinates: 47.307, 9.402
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Appenzell Innerrhoden (unincorporated)
+
+Code: CH05D01, Coordinates: 47.307, 9.402
+
+

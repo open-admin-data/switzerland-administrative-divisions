@@ -1,0 +1,59 @@
+# Solothurn — Switzerland Administrative Divisions
+
+> 10 districts
+> Code: CH23
+> Coordinates: 47.23, 7.535
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Bucheggberg
+
+Code: CH23D05, Coordinates: 47.13, 7.461
+
+
+### Dorneck
+
+Code: CH23D08, Coordinates: 47.45, 7.654
+
+
+### Gau
+
+Code: CH23D06, Coordinates: 47.298, 7.771
+
+
+### Gosgen
+
+Code: CH23D04, Coordinates: 47.387, 7.949
+
+
+### Lebern
+
+Code: CH23D02, Coordinates: 47.221, 7.46
+
+
+### Olten
+
+Code: CH23D03, Coordinates: 47.335, 7.87
+
+
+### Solothurn
+
+Code: CH23D07, Coordinates: 47.21, 7.53
+
+
+### Thal
+
+Code: CH23D01, Coordinates: 47.316, 7.628
+
+
+### Thierstein
+
+Code: CH23D09, Coordinates: 47.378, 7.58
+
+
+### Wasseramt
+
+Code: CH23D10, Coordinates: 47.191, 7.599
+
+

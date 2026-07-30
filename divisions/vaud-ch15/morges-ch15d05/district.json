@@ -1,0 +1,45 @@
+{
+  "id": "CH15D05",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Morges",
+    "en": "Morges",
+    "slug": "morges-ch15d05"
+  },
+  "code": {
+    "id": "CH15D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH15",
+    "level": 1,
+    "name": {
+      "local": "Vaud",
+      "en": "Vaud",
+      "slug": "vaud-ch15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.565",
+    "lon": "6.413"
+  },
+  "metadata": {},
+  "source": {}
+}

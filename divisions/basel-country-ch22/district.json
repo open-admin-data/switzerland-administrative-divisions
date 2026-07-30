@@ -1,0 +1,227 @@
+[
+  {
+    "id": "CH22D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arlesheim",
+      "en": "Arlesheim",
+      "slug": "arlesheim-ch22d05"
+    },
+    "code": {
+      "id": "CH22D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.49",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Laufen",
+      "en": "Laufen",
+      "slug": "laufen-ch22d01"
+    },
+    "code": {
+      "id": "CH22D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.428",
+      "lon": "7.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Liestal",
+      "en": "Liestal",
+      "slug": "liestal-ch22d04"
+    },
+    "code": {
+      "id": "CH22D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.487",
+      "lon": "7.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sissach",
+      "en": "Sissach",
+      "slug": "sissach-ch22d02"
+    },
+    "code": {
+      "id": "CH22D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.455",
+      "lon": "7.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waldenburg",
+      "en": "Waldenburg",
+      "slug": "waldenburg-ch22d03"
+    },
+    "code": {
+      "id": "CH22D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.388",
+      "lon": "7.767"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

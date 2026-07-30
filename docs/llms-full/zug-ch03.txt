@@ -1,0 +1,14 @@
+# Zug — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH03
+> Coordinates: 47.157, 8.537
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Zug (unincorporated)
+
+Code: CH03D01, Coordinates: 47.157, 8.537
+
+

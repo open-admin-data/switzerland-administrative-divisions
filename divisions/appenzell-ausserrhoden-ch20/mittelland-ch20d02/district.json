@@ -1,0 +1,45 @@
+{
+  "id": "CH20D02",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mittelland",
+    "en": "Mittelland",
+    "slug": "mittelland-ch20d02"
+  },
+  "code": {
+    "id": "CH20D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH20",
+    "level": 1,
+    "name": {
+      "local": "Appenzell Ausserrhoden",
+      "en": "Appenzell Ausserrhoden",
+      "slug": "appenzell-ausserrhoden-ch20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH20",
+      "level": 1,
+      "name": {
+        "local": "Appenzell Ausserrhoden",
+        "en": "Appenzell Ausserrhoden",
+        "slug": "appenzell-ausserrhoden-ch20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.385",
+    "lon": "9.459"
+  },
+  "metadata": {},
+  "source": {}
+}

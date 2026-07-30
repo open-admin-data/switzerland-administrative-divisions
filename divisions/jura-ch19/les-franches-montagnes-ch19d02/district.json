@@ -1,0 +1,45 @@
+{
+  "id": "CH19D02",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Les Franches-Montagnes",
+    "en": "Les Franches-Montagnes",
+    "slug": "les-franches-montagnes-ch19d02"
+  },
+  "code": {
+    "id": "CH19D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH19",
+    "level": 1,
+    "name": {
+      "local": "Jura",
+      "en": "Jura",
+      "slug": "jura-ch19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH19",
+      "level": 1,
+      "name": {
+        "local": "Jura",
+        "en": "Jura",
+        "slug": "jura-ch19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.247",
+    "lon": "7.004"
+  },
+  "metadata": {},
+  "source": {}
+}

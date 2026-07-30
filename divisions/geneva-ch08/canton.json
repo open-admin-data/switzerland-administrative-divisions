@@ -1,0 +1,33 @@
+{
+  "id": "CH08",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Genève",
+    "en": "Geneva",
+    "slug": "geneva-ch08"
+  },
+  "code": {
+    "id": "CH08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.196",
+    "lon": "6.128"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/geneva-ch08/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

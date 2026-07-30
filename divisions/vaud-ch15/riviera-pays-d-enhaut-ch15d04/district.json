@@ -1,0 +1,45 @@
+{
+  "id": "CH15D04",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Riviera-Pays-d'Enhaut",
+    "en": "Riviera-Pays-d'Enhaut",
+    "slug": "riviera-pays-d-enhaut-ch15d04"
+  },
+  "code": {
+    "id": "CH15D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH15",
+    "level": 1,
+    "name": {
+      "local": "Vaud",
+      "en": "Vaud",
+      "slug": "vaud-ch15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.451",
+    "lon": "7.143"
+  },
+  "metadata": {},
+  "source": {}
+}

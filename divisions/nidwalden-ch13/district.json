@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CH13D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nidwalden",
+      "en": "Nidwalden",
+      "slug": "nidwalden-ch13d01"
+    },
+    "code": {
+      "id": "CH13D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH13",
+      "level": 1,
+      "name": {
+        "local": "Nidwalden",
+        "en": "Nidwalden",
+        "slug": "nidwalden-ch13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH13",
+        "level": 1,
+        "name": {
+          "local": "Nidwalden",
+          "en": "Nidwalden",
+          "slug": "nidwalden-ch13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.933",
+      "lon": "8.405"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

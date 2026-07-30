@@ -1,0 +1,33 @@
+{
+  "id": "CH15",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Vaud",
+    "en": "Vaud",
+    "slug": "vaud-ch15"
+  },
+  "code": {
+    "id": "CH15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.643",
+    "lon": "6.59"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/vaud-ch15/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

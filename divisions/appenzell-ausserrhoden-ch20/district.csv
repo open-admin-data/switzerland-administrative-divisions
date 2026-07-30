@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+CH20D01,Hinterland,Hinterland,hinterland-ch20d01,CH20D01,47.354,9.276
+CH20D02,Mittelland,Mittelland,mittelland-ch20d02,CH20D02,47.385,9.459
+CH20D03,Vorderland,Vorderland,vorderland-ch20d03,CH20D03,47.424,9.501

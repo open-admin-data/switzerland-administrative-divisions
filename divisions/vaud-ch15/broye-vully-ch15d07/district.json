@@ -1,0 +1,45 @@
+{
+  "id": "CH15D07",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Broye-Vully",
+    "en": "Broye-Vully",
+    "slug": "broye-vully-ch15d07"
+  },
+  "code": {
+    "id": "CH15D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH15",
+    "level": 1,
+    "name": {
+      "local": "Vaud",
+      "en": "Vaud",
+      "slug": "vaud-ch15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.698",
+    "lon": "6.837"
+  },
+  "metadata": {},
+  "source": {}
+}

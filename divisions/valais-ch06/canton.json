@@ -1,0 +1,33 @@
+{
+  "id": "CH06",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Valais",
+    "en": "Valais",
+    "slug": "valais-ch06"
+  },
+  "code": {
+    "id": "CH06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.196",
+    "lon": "7.677"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/valais-ch06/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

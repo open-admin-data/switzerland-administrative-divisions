@@ -1,0 +1,45 @@
+{
+  "id": "CH04D02",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Leventina",
+    "en": "Leventina",
+    "slug": "leventina-ch04d02"
+  },
+  "code": {
+    "id": "CH04D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH04",
+    "level": 1,
+    "name": {
+      "local": "Ticino",
+      "en": "Ticino",
+      "slug": "ticino-ch04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.455",
+    "lon": "8.804"
+  },
+  "metadata": {},
+  "source": {}
+}

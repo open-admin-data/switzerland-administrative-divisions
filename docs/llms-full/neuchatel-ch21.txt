@@ -1,0 +1,14 @@
+# Neuchatel — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH21
+> Coordinates: 47.002, 6.807
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Neuchâtel (unincorporated)
+
+Code: CH21D01, Coordinates: 47.02, 6.8
+
+

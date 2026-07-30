@@ -1,0 +1,45 @@
+{
+  "id": "CH23D07",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Solothurn",
+    "en": "Solothurn",
+    "slug": "solothurn-ch23d07"
+  },
+  "code": {
+    "id": "CH23D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH23",
+    "level": 1,
+    "name": {
+      "local": "Solothurn",
+      "en": "Solothurn",
+      "slug": "solothurn-ch23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.21",
+    "lon": "7.53"
+  },
+  "metadata": {},
+  "source": {}
+}

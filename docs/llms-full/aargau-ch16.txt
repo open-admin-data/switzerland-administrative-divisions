@@ -1,0 +1,64 @@
+# Aargau — Switzerland Administrative Divisions
+
+> 11 districts
+> Code: CH16
+> Coordinates: 47.43, 8.182
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Aarau
+
+Code: CH16D09, Coordinates: 47.386, 8.07
+
+
+### Baden
+
+Code: CH16D03, Coordinates: 47.453, 8.313
+
+
+### Bremgarten
+
+Code: CH16D05, Coordinates: 47.37, 8.269
+
+
+### Brugg
+
+Code: CH16D10, Coordinates: 47.486, 8.173
+
+
+### Kulm
+
+Code: CH16D08, Coordinates: 47.291, 8.139
+
+
+### Laufenburg
+
+Code: CH16D07, Coordinates: 47.507, 8.032
+
+
+### Lenzburg
+
+Code: CH16D11, Coordinates: 47.375, 8.178
+
+
+### Muri
+
+Code: CH16D01, Coordinates: 47.252, 8.358
+
+
+### Rheinfelden
+
+Code: CH16D06, Coordinates: 47.556, 7.875
+
+
+### Zofingen
+
+Code: CH16D04, Coordinates: 47.28, 7.91
+
+
+### Zurzach
+
+Code: CH16D02, Coordinates: 47.548, 8.301
+
+

@@ -1,0 +1,54 @@
+# Saint Gallen — Switzerland Administrative Divisions
+
+> 9 districts
+> Code: CH18
+> Coordinates: 47.115, 9.331
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Rheintal
+
+Code: CH18D08, Coordinates: 47.348, 9.55
+
+
+### Rorschach
+
+Code: CH18D05, Coordinates: 47.468, 9.45
+
+
+### Sankt Gallen (unincorporated)
+
+Code: CH18D09, Coordinates: 47.514, 9.514
+
+
+### Sarganserland
+
+Code: CH18D07, Coordinates: 47.004, 9.346
+
+
+### See-Gaster
+
+Code: CH18D03, Coordinates: 47.21, 9.041
+
+
+### St. Gallen
+
+Code: CH18D04, Coordinates: 47.443, 9.331
+
+
+### Toggenburg
+
+Code: CH18D02, Coordinates: 47.321, 9.119
+
+
+### Werdenberg
+
+Code: CH18D01, Coordinates: 47.169, 9.435
+
+
+### Wil
+
+Code: CH18D06, Coordinates: 47.444, 9.144
+
+

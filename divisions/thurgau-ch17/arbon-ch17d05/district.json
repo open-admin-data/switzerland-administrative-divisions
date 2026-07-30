@@ -1,0 +1,45 @@
+{
+  "id": "CH17D05",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Arbon",
+    "en": "Arbon",
+    "slug": "arbon-ch17d05"
+  },
+  "code": {
+    "id": "CH17D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH17",
+    "level": 1,
+    "name": {
+      "local": "Thurgau",
+      "en": "Thurgau",
+      "slug": "thurgau-ch17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH17",
+      "level": 1,
+      "name": {
+        "local": "Thurgau",
+        "en": "Thurgau",
+        "slug": "thurgau-ch17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.561",
+    "lon": "9.328"
+  },
+  "metadata": {},
+  "source": {}
+}

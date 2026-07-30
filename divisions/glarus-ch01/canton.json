@@ -1,0 +1,33 @@
+{
+  "id": "CH01",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Glarus",
+    "en": "Glarus",
+    "slug": "glarus-ch01"
+  },
+  "code": {
+    "id": "CH01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.978",
+    "lon": "9.063"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/glarus-ch01/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

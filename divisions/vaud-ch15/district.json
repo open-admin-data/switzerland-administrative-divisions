@@ -1,0 +1,497 @@
+[
+  {
+    "id": "CH15D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aigle",
+      "en": "Aigle",
+      "slug": "aigle-ch15d01"
+    },
+    "code": {
+      "id": "CH15D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.313",
+      "lon": "7.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Broye-Vully",
+      "en": "Broye-Vully",
+      "slug": "broye-vully-ch15d07"
+    },
+    "code": {
+      "id": "CH15D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.698",
+      "lon": "6.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gros-de-Vaud",
+      "en": "Gros-de-Vaud",
+      "slug": "gros-de-vaud-ch15d06"
+    },
+    "code": {
+      "id": "CH15D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.656",
+      "lon": "6.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jura-Nord vaudois",
+      "en": "Jura-Nord vaudois",
+      "slug": "jura-nord-vaudois-ch15d02"
+    },
+    "code": {
+      "id": "CH15D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.779",
+      "lon": "6.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lausanne",
+      "en": "Lausanne",
+      "slug": "lausanne-ch15d08"
+    },
+    "code": {
+      "id": "CH15D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.542",
+      "lon": "6.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lavaux-Oron",
+      "en": "Lavaux-Oron",
+      "slug": "lavaux-oron-ch15d10"
+    },
+    "code": {
+      "id": "CH15D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.541",
+      "lon": "6.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Morges",
+      "en": "Morges",
+      "slug": "morges-ch15d05"
+    },
+    "code": {
+      "id": "CH15D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.565",
+      "lon": "6.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nyon",
+      "en": "Nyon",
+      "slug": "nyon-ch15d11"
+    },
+    "code": {
+      "id": "CH15D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.444",
+      "lon": "6.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ouest lausannois",
+      "en": "Ouest lausannois",
+      "slug": "ouest-lausannois-ch15d03"
+    },
+    "code": {
+      "id": "CH15D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.539",
+      "lon": "6.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Riviera-Pays-d'Enhaut",
+      "en": "Riviera-Pays-d'Enhaut",
+      "slug": "riviera-pays-d-enhaut-ch15d04"
+    },
+    "code": {
+      "id": "CH15D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.451",
+      "lon": "7.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vaud (unincorporated)",
+      "en": "Vaud (unincorporated)",
+      "slug": "vaud-unincorporated-ch15d09"
+    },
+    "code": {
+      "id": "CH15D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.487",
+      "lon": "6.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

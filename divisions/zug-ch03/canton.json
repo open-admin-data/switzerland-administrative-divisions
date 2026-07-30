@@ -1,0 +1,33 @@
+{
+  "id": "CH03",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Zug",
+    "en": "Zug",
+    "slug": "zug-ch03"
+  },
+  "code": {
+    "id": "CH03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.157",
+    "lon": "8.537"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/zug-ch03/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

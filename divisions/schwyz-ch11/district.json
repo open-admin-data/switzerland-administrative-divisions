@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CH11D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Einsiedeln",
+      "en": "Einsiedeln",
+      "slug": "einsiedeln-ch11d01"
+    },
+    "code": {
+      "id": "CH11D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.125",
+      "lon": "8.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gersau",
+      "en": "Gersau",
+      "slug": "gersau-ch11d03"
+    },
+    "code": {
+      "id": "CH11D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.999",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hofe",
+      "en": "Hofe",
+      "slug": "hofe-ch11d05"
+    },
+    "code": {
+      "id": "CH11D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.188",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kussnacht",
+      "en": "Kussnacht",
+      "slug": "kussnacht-ch11d02"
+    },
+    "code": {
+      "id": "CH11D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.086",
+      "lon": "8.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "March",
+      "en": "March",
+      "slug": "march-ch11d06"
+    },
+    "code": {
+      "id": "CH11D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.15",
+      "lon": "8.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Schwyz",
+      "en": "Schwyz",
+      "slug": "schwyz-ch11d04"
+    },
+    "code": {
+      "id": "CH11D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.019",
+      "lon": "8.69"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

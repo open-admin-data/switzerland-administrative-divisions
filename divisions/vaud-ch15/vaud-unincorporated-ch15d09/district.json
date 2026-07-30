@@ -1,0 +1,45 @@
+{
+  "id": "CH15D09",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Vaud (unincorporated)",
+    "en": "Vaud (unincorporated)",
+    "slug": "vaud-unincorporated-ch15d09"
+  },
+  "code": {
+    "id": "CH15D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH15",
+    "level": 1,
+    "name": {
+      "local": "Vaud",
+      "en": "Vaud",
+      "slug": "vaud-ch15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.487",
+    "lon": "6.583"
+  },
+  "metadata": {},
+  "source": {}
+}

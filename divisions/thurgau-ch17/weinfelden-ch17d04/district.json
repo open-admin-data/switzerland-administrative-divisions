@@ -1,0 +1,45 @@
+{
+  "id": "CH17D04",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Weinfelden",
+    "en": "Weinfelden",
+    "slug": "weinfelden-ch17d04"
+  },
+  "code": {
+    "id": "CH17D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH17",
+    "level": 1,
+    "name": {
+      "local": "Thurgau",
+      "en": "Thurgau",
+      "slug": "thurgau-ch17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH17",
+      "level": 1,
+      "name": {
+        "local": "Thurgau",
+        "en": "Thurgau",
+        "slug": "thurgau-ch17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.536",
+    "lon": "9.135"
+  },
+  "metadata": {},
+  "source": {}
+}

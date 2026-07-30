@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CH01D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Glarus",
+      "en": "Glarus",
+      "slug": "glarus-ch01d01"
+    },
+    "code": {
+      "id": "CH01D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH01",
+      "level": 1,
+      "name": {
+        "local": "Glarus",
+        "en": "Glarus",
+        "slug": "glarus-ch01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH01",
+        "level": 1,
+        "name": {
+          "local": "Glarus",
+          "en": "Glarus",
+          "slug": "glarus-ch01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.978",
+      "lon": "9.063"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

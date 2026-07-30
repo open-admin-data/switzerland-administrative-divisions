@@ -1,0 +1,14 @@
+# Glarus — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH01
+> Coordinates: 46.978, 9.063
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Glarus
+
+Code: CH01D01, Coordinates: 46.978, 9.063
+
+

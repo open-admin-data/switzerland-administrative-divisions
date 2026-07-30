@@ -1,0 +1,49 @@
+# Ticino — Switzerland Administrative Divisions
+
+> 8 districts
+> Code: CH04
+> Coordinates: 46.332, 8.815
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Bellinzona
+
+Code: CH04D06, Coordinates: 46.202, 9.009
+
+
+### Blenio
+
+Code: CH04D07, Coordinates: 46.504, 8.942
+
+
+### Leventina
+
+Code: CH04D02, Coordinates: 46.455, 8.804
+
+
+### Locarno
+
+Code: CH04D05, Coordinates: 46.2, 8.858
+
+
+### Lugano
+
+Code: CH04D01, Coordinates: 46.052, 8.933
+
+
+### Mendrisio
+
+Code: CH04D08, Coordinates: 45.874, 8.989
+
+
+### Riviera
+
+Code: CH04D03, Coordinates: 46.334, 9.005
+
+
+### Vallemaggia
+
+Code: CH04D04, Coordinates: 46.372, 8.589
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "CH06D11",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Raron",
+    "en": "Raron",
+    "slug": "raron-ch06d11"
+  },
+  "code": {
+    "id": "CH06D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH06",
+    "level": 1,
+    "name": {
+      "local": "Valais",
+      "en": "Valais",
+      "slug": "valais-ch06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.372",
+    "lon": "7.804"
+  },
+  "metadata": {},
+  "source": {}
+}

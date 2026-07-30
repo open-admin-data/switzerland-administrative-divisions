@@ -1,0 +1,45 @@
+{
+  "id": "CH23D09",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thierstein",
+    "en": "Thierstein",
+    "slug": "thierstein-ch23d09"
+  },
+  "code": {
+    "id": "CH23D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH23",
+    "level": 1,
+    "name": {
+      "local": "Solothurn",
+      "en": "Solothurn",
+      "slug": "solothurn-ch23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.378",
+    "lon": "7.58"
+  },
+  "metadata": {},
+  "source": {}
+}

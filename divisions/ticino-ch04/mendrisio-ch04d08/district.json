@@ -1,0 +1,45 @@
+{
+  "id": "CH04D08",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mendrisio",
+    "en": "Mendrisio",
+    "slug": "mendrisio-ch04d08"
+  },
+  "code": {
+    "id": "CH04D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH04",
+    "level": 1,
+    "name": {
+      "local": "Ticino",
+      "en": "Ticino",
+      "slug": "ticino-ch04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "45.874",
+    "lon": "8.989"
+  },
+  "metadata": {},
+  "source": {}
+}

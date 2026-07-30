@@ -1,0 +1,497 @@
+[
+  {
+    "id": "CH26D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bern (unincorporated)",
+      "en": "Bern (unincorporated)",
+      "slug": "bern-unincorporated-ch26d10"
+    },
+    "code": {
+      "id": "CH26D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.688",
+      "lon": "7.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bern-Mittelland",
+      "en": "Bern-Mittelland",
+      "slug": "bern-mittelland-ch26d05"
+    },
+    "code": {
+      "id": "CH26D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.9",
+      "lon": "7.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Biel/Bienne",
+      "en": "Biel/Bienne",
+      "slug": "biel-bienne-ch26d09"
+    },
+    "code": {
+      "id": "CH26D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.138",
+      "lon": "7.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Emmental",
+      "en": "Emmental",
+      "slug": "emmental-ch26d04"
+    },
+    "code": {
+      "id": "CH26D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.961",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Frutigen-Niedersimmental",
+      "en": "Frutigen-Niedersimmental",
+      "slug": "frutigen-niedersimmental-ch26d03"
+    },
+    "code": {
+      "id": "CH26D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.564",
+      "lon": "7.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Interlaken-Oberhasli",
+      "en": "Interlaken-Oberhasli",
+      "slug": "interlaken-oberhasli-ch26d01"
+    },
+    "code": {
+      "id": "CH26D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.655",
+      "lon": "8.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jura bernois",
+      "en": "Jura bernois",
+      "slug": "jura-bernois-ch26d06"
+    },
+    "code": {
+      "id": "CH26D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.217",
+      "lon": "7.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oberaargau",
+      "en": "Oberaargau",
+      "slug": "oberaargau-ch26d08"
+    },
+    "code": {
+      "id": "CH26D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.179",
+      "lon": "7.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Obersimmental-Saanen",
+      "en": "Obersimmental-Saanen",
+      "slug": "obersimmental-saanen-ch26d02"
+    },
+    "code": {
+      "id": "CH26D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.474",
+      "lon": "7.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seeland",
+      "en": "Seeland",
+      "slug": "seeland-ch26d07"
+    },
+    "code": {
+      "id": "CH26D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.056",
+      "lon": "7.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thun",
+      "en": "Thun",
+      "slug": "thun-ch26d11"
+    },
+    "code": {
+      "id": "CH26D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.774",
+      "lon": "7.707"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

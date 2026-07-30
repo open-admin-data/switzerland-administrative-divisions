@@ -1,0 +1,45 @@
+{
+  "id": "CH02D04",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Imboden",
+    "en": "Imboden",
+    "slug": "imboden-ch02d04"
+  },
+  "code": {
+    "id": "CH02D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH02",
+    "level": 1,
+    "name": {
+      "local": "Graubünden",
+      "en": "Graubunden",
+      "slug": "graubunden-ch02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.84",
+    "lon": "9.375"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "CH21",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Neuchâtel",
+    "en": "Neuchatel",
+    "slug": "neuchatel-ch21"
+  },
+  "code": {
+    "id": "CH21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.002",
+    "lon": "6.807"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/neuchatel-ch21/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

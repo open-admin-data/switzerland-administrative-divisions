@@ -1,0 +1,14 @@
+# Obwalden — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH24
+> Coordinates: 46.865, 8.225
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Obwalden (unincorporated)
+
+Code: CH24D01, Coordinates: 46.865, 8.225
+
+

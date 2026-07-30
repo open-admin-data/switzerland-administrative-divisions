@@ -1,0 +1,45 @@
+{
+  "id": "CH19D03",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Porrentruy",
+    "en": "Porrentruy",
+    "slug": "porrentruy-ch19d03"
+  },
+  "code": {
+    "id": "CH19D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH19",
+    "level": 1,
+    "name": {
+      "local": "Jura",
+      "en": "Jura",
+      "slug": "jura-ch19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH19",
+      "level": 1,
+      "name": {
+        "local": "Jura",
+        "en": "Jura",
+        "slug": "jura-ch19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.413",
+    "lon": "7.097"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CH06D02",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sierre",
+    "en": "Sierre",
+    "slug": "sierre-ch06d02"
+  },
+  "code": {
+    "id": "CH06D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH06",
+    "level": 1,
+    "name": {
+      "local": "Valais",
+      "en": "Valais",
+      "slug": "valais-ch06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.163",
+    "lon": "7.592"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CH26D08",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Oberaargau",
+    "en": "Oberaargau",
+    "slug": "oberaargau-ch26d08"
+  },
+  "code": {
+    "id": "CH26D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH26",
+    "level": 1,
+    "name": {
+      "local": "Bern",
+      "en": "Bern",
+      "slug": "bern-ch26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.179",
+    "lon": "7.773"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,14 @@
+# Nidwalden — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH13
+> Coordinates: 46.933, 8.405
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Nidwalden
+
+Code: CH13D01, Coordinates: 46.933, 8.405
+
+

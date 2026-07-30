@@ -1,0 +1,39 @@
+# Thurgau — Switzerland Administrative Divisions
+
+> 6 districts
+> Code: CH17
+> Coordinates: 47.587, 9.063
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Arbon
+
+Code: CH17D05, Coordinates: 47.561, 9.328
+
+
+### Frauenfeld
+
+Code: CH17D01, Coordinates: 47.592, 8.905
+
+
+### Kreuzlingen
+
+Code: CH17D03, Coordinates: 47.627, 9.146
+
+
+### Munchwilen
+
+Code: CH17D06, Coordinates: 47.464, 8.964
+
+
+### Thurgau (unincorporated)
+
+Code: CH17D02, Coordinates: 47.562, 9.422
+
+
+### Weinfelden
+
+Code: CH17D04, Coordinates: 47.536, 9.135
+
+

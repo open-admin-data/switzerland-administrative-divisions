@@ -1,0 +1,45 @@
+{
+  "id": "CH18D05",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rorschach",
+    "en": "Rorschach",
+    "slug": "rorschach-ch18d05"
+  },
+  "code": {
+    "id": "CH18D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH18",
+    "level": 1,
+    "name": {
+      "local": "St. Gallen",
+      "en": "Saint Gallen",
+      "slug": "saint-gallen-ch18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.468",
+    "lon": "9.45"
+  },
+  "metadata": {},
+  "source": {}
+}

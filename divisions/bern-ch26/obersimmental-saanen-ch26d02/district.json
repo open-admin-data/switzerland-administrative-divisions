@@ -1,0 +1,45 @@
+{
+  "id": "CH26D02",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Obersimmental-Saanen",
+    "en": "Obersimmental-Saanen",
+    "slug": "obersimmental-saanen-ch26d02"
+  },
+  "code": {
+    "id": "CH26D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH26",
+    "level": 1,
+    "name": {
+      "local": "Bern",
+      "en": "Bern",
+      "slug": "bern-ch26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.474",
+    "lon": "7.358"
+  },
+  "metadata": {},
+  "source": {}
+}

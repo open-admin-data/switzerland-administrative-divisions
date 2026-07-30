@@ -1,0 +1,45 @@
+{
+  "id": "CH18D03",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "See-Gaster",
+    "en": "See-Gaster",
+    "slug": "see-gaster-ch18d03"
+  },
+  "code": {
+    "id": "CH18D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH18",
+    "level": 1,
+    "name": {
+      "local": "St. Gallen",
+      "en": "Saint Gallen",
+      "slug": "saint-gallen-ch18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.21",
+    "lon": "9.041"
+  },
+  "metadata": {},
+  "source": {}
+}

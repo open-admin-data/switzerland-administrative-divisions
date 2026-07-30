@@ -1,0 +1,45 @@
+{
+  "id": "CH07D04",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Oberklettgau",
+    "en": "Oberklettgau",
+    "slug": "oberklettgau-ch07d04"
+  },
+  "code": {
+    "id": "CH07D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH07",
+    "level": 1,
+    "name": {
+      "local": "Schaffhausen",
+      "en": "Schaffhausen",
+      "slug": "schaffhausen-ch07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.687",
+    "lon": "8.516"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "CH16",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Aargau",
+    "en": "Aargau",
+    "slug": "aargau-ch16"
+  },
+  "code": {
+    "id": "CH16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.43",
+    "lon": "8.182"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/aargau-ch16/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

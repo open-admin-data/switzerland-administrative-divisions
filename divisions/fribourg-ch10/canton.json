@@ -1,0 +1,33 @@
+{
+  "id": "CH10",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Fribourg",
+    "en": "Fribourg",
+    "slug": "fribourg-ch10"
+  },
+  "code": {
+    "id": "CH10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.693",
+    "lon": "7.101"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/fribourg-ch10/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

@@ -1,0 +1,6662 @@
+[
+  {
+    "id": "CH18D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Werdenberg",
+      "en": "Werdenberg",
+      "slug": "werdenberg-ch18d01"
+    },
+    "code": {
+      "id": "CH18D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.169",
+      "lon": "9.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Laufen",
+      "en": "Laufen",
+      "slug": "laufen-ch22d01"
+    },
+    "code": {
+      "id": "CH22D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.428",
+      "lon": "7.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Interlaken-Oberhasli",
+      "en": "Interlaken-Oberhasli",
+      "slug": "interlaken-oberhasli-ch26d01"
+    },
+    "code": {
+      "id": "CH26D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.655",
+      "lon": "8.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leuk",
+      "en": "Leuk",
+      "slug": "leuk-ch06d01"
+    },
+    "code": {
+      "id": "CH06D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.313",
+      "lon": "7.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH10D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "See",
+      "en": "See",
+      "slug": "see-ch10d01"
+    },
+    "code": {
+      "id": "CH10D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH10",
+        "level": 1,
+        "name": {
+          "local": "Fribourg",
+          "en": "Fribourg",
+          "slug": "fribourg-ch10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.939",
+      "lon": "7.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lugano",
+      "en": "Lugano",
+      "slug": "lugano-ch04d01"
+    },
+    "code": {
+      "id": "CH04D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.052",
+      "lon": "8.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meilen",
+      "en": "Meilen",
+      "slug": "meilen-ch12d01"
+    },
+    "code": {
+      "id": "CH12D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.314",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toggenburg",
+      "en": "Toggenburg",
+      "slug": "toggenburg-ch18d02"
+    },
+    "code": {
+      "id": "CH18D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.321",
+      "lon": "9.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Surselva",
+      "en": "Surselva",
+      "slug": "surselva-ch02d01"
+    },
+    "code": {
+      "id": "CH02D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.716",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Affoltern",
+      "en": "Affoltern",
+      "slug": "affoltern-ch12d02"
+    },
+    "code": {
+      "id": "CH12D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.267",
+      "lon": "8.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bernina",
+      "en": "Bernina",
+      "slug": "bernina-ch02d02"
+    },
+    "code": {
+      "id": "CH02D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.349",
+      "lon": "10.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pfaffikon",
+      "en": "Pfaffikon",
+      "slug": "pfaffikon-ch12d03"
+    },
+    "code": {
+      "id": "CH12D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.389",
+      "lon": "8.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aigle",
+      "en": "Aigle",
+      "slug": "aigle-ch15d01"
+    },
+    "code": {
+      "id": "CH15D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.313",
+      "lon": "7.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH24D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Obwalden (unincorporated)",
+      "en": "Obwalden (unincorporated)",
+      "slug": "obwalden-unincorporated-ch24d01"
+    },
+    "code": {
+      "id": "CH24D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH24",
+      "level": 1,
+      "name": {
+        "local": "Obwalden",
+        "en": "Obwalden",
+        "slug": "obwalden-ch24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH24",
+        "level": 1,
+        "name": {
+          "local": "Obwalden",
+          "en": "Obwalden",
+          "slug": "obwalden-ch24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.865",
+      "lon": "8.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH19D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Delemont",
+      "en": "Delemont",
+      "slug": "delemont-ch19d01"
+    },
+    "code": {
+      "id": "CH19D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH19",
+      "level": 1,
+      "name": {
+        "local": "Jura",
+        "en": "Jura",
+        "slug": "jura-ch19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH19",
+        "level": 1,
+        "name": {
+          "local": "Jura",
+          "en": "Jura",
+          "slug": "jura-ch19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.361",
+      "lon": "7.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sierre",
+      "en": "Sierre",
+      "slug": "sierre-ch06d02"
+    },
+    "code": {
+      "id": "CH06D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.163",
+      "lon": "7.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Einsiedeln",
+      "en": "Einsiedeln",
+      "slug": "einsiedeln-ch11d01"
+    },
+    "code": {
+      "id": "CH11D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.125",
+      "lon": "8.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Andelfingen",
+      "en": "Andelfingen",
+      "slug": "andelfingen-ch12d04"
+    },
+    "code": {
+      "id": "CH12D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.612",
+      "lon": "8.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Prattigau/Davos",
+      "en": "Prattigau/Davos",
+      "slug": "prattigau-davos-ch02d03"
+    },
+    "code": {
+      "id": "CH02D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.948",
+      "lon": "9.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Entremont",
+      "en": "Entremont",
+      "slug": "entremont-ch06d03"
+    },
+    "code": {
+      "id": "CH06D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46",
+      "lon": "7.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muri",
+      "en": "Muri",
+      "slug": "muri-ch16d01"
+    },
+    "code": {
+      "id": "CH16D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.252",
+      "lon": "8.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kussnacht",
+      "en": "Kussnacht",
+      "slug": "kussnacht-ch11d02"
+    },
+    "code": {
+      "id": "CH11D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.086",
+      "lon": "8.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jura-Nord vaudois",
+      "en": "Jura-Nord vaudois",
+      "slug": "jura-nord-vaudois-ch15d02"
+    },
+    "code": {
+      "id": "CH15D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.779",
+      "lon": "6.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "See-Gaster",
+      "en": "See-Gaster",
+      "slug": "see-gaster-ch18d03"
+    },
+    "code": {
+      "id": "CH18D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.21",
+      "lon": "9.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sissach",
+      "en": "Sissach",
+      "slug": "sissach-ch22d02"
+    },
+    "code": {
+      "id": "CH22D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.455",
+      "lon": "7.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Obersimmental-Saanen",
+      "en": "Obersimmental-Saanen",
+      "slug": "obersimmental-saanen-ch26d02"
+    },
+    "code": {
+      "id": "CH26D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.474",
+      "lon": "7.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Horgen",
+      "en": "Horgen",
+      "slug": "horgen-ch12d05"
+    },
+    "code": {
+      "id": "CH12D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.206",
+      "lon": "8.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sion",
+      "en": "Sion",
+      "slug": "sion-ch06d04"
+    },
+    "code": {
+      "id": "CH06D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.25",
+      "lon": "7.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ouest lausannois",
+      "en": "Ouest lausannois",
+      "slug": "ouest-lausannois-ch15d03"
+    },
+    "code": {
+      "id": "CH15D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.539",
+      "lon": "6.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Frutigen-Niedersimmental",
+      "en": "Frutigen-Niedersimmental",
+      "slug": "frutigen-niedersimmental-ch26d03"
+    },
+    "code": {
+      "id": "CH26D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.564",
+      "lon": "7.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Riviera-Pays-d'Enhaut",
+      "en": "Riviera-Pays-d'Enhaut",
+      "slug": "riviera-pays-d-enhaut-ch15d04"
+    },
+    "code": {
+      "id": "CH15D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.451",
+      "lon": "7.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Emmental",
+      "en": "Emmental",
+      "slug": "emmental-ch26d04"
+    },
+    "code": {
+      "id": "CH26D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.961",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Imboden",
+      "en": "Imboden",
+      "slug": "imboden-ch02d04"
+    },
+    "code": {
+      "id": "CH02D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.84",
+      "lon": "9.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zurzach",
+      "en": "Zurzach",
+      "slug": "zurzach-ch16d02"
+    },
+    "code": {
+      "id": "CH16D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.548",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baden",
+      "en": "Baden",
+      "slug": "baden-ch16d03"
+    },
+    "code": {
+      "id": "CH16D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.453",
+      "lon": "8.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "St. Gallen",
+      "en": "St. Gallen",
+      "slug": "st-gallen-ch18d04"
+    },
+    "code": {
+      "id": "CH18D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.443",
+      "lon": "9.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zofingen",
+      "en": "Zofingen",
+      "slug": "zofingen-ch16d04"
+    },
+    "code": {
+      "id": "CH16D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.28",
+      "lon": "7.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rorschach",
+      "en": "Rorschach",
+      "slug": "rorschach-ch18d05"
+    },
+    "code": {
+      "id": "CH18D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.468",
+      "lon": "9.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maloja",
+      "en": "Maloja",
+      "slug": "maloja-ch02d05"
+    },
+    "code": {
+      "id": "CH02D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.464",
+      "lon": "9.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Visp",
+      "en": "Visp",
+      "slug": "visp-ch06d05"
+    },
+    "code": {
+      "id": "CH06D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.123",
+      "lon": "7.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bern-Mittelland",
+      "en": "Bern-Mittelland",
+      "slug": "bern-mittelland-ch26d05"
+    },
+    "code": {
+      "id": "CH26D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.9",
+      "lon": "7.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jura bernois",
+      "en": "Jura bernois",
+      "slug": "jura-bernois-ch26d06"
+    },
+    "code": {
+      "id": "CH26D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.217",
+      "lon": "7.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH10D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Glane",
+      "en": "La Glane",
+      "slug": "la-glane-ch10d02"
+    },
+    "code": {
+      "id": "CH10D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH10",
+        "level": 1,
+        "name": {
+          "local": "Fribourg",
+          "en": "Fribourg",
+          "slug": "fribourg-ch10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.675",
+      "lon": "6.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH17D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Frauenfeld",
+      "en": "Frauenfeld",
+      "slug": "frauenfeld-ch17d01"
+    },
+    "code": {
+      "id": "CH17D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH17",
+      "level": 1,
+      "name": {
+        "local": "Thurgau",
+        "en": "Thurgau",
+        "slug": "thurgau-ch17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH17",
+        "level": 1,
+        "name": {
+          "local": "Thurgau",
+          "en": "Thurgau",
+          "slug": "thurgau-ch17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.592",
+      "lon": "8.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Morges",
+      "en": "Morges",
+      "slug": "morges-ch15d05"
+    },
+    "code": {
+      "id": "CH15D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.565",
+      "lon": "6.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH19D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Les Franches-Montagnes",
+      "en": "Les Franches-Montagnes",
+      "slug": "les-franches-montagnes-ch19d02"
+    },
+    "code": {
+      "id": "CH19D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH19",
+      "level": 1,
+      "name": {
+        "local": "Jura",
+        "en": "Jura",
+        "slug": "jura-ch19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH19",
+        "level": 1,
+        "name": {
+          "local": "Jura",
+          "en": "Jura",
+          "slug": "jura-ch19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.247",
+      "lon": "7.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bremgarten",
+      "en": "Bremgarten",
+      "slug": "bremgarten-ch16d05"
+    },
+    "code": {
+      "id": "CH16D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.37",
+      "lon": "8.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH25D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uri (unincorporated)",
+      "en": "Uri (unincorporated)",
+      "slug": "uri-unincorporated-ch25d01"
+    },
+    "code": {
+      "id": "CH25D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH25",
+      "level": 1,
+      "name": {
+        "local": "Uri",
+        "en": "Uri",
+        "slug": "uri-ch25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH25",
+        "level": 1,
+        "name": {
+          "local": "Uri",
+          "en": "Uri",
+          "slug": "uri-ch25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.812",
+      "lon": "8.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Landquart",
+      "en": "Landquart",
+      "slug": "landquart-ch02d06"
+    },
+    "code": {
+      "id": "CH02D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.935",
+      "lon": "9.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gersau",
+      "en": "Gersau",
+      "slug": "gersau-ch11d03"
+    },
+    "code": {
+      "id": "CH11D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.999",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Albula",
+      "en": "Albula",
+      "slug": "albula-ch02d07"
+    },
+    "code": {
+      "id": "CH02D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.618",
+      "lon": "9.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Schwyz",
+      "en": "Schwyz",
+      "slug": "schwyz-ch11d04"
+    },
+    "code": {
+      "id": "CH11D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.019",
+      "lon": "8.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH10D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sense",
+      "en": "Sense",
+      "slug": "sense-ch10d03"
+    },
+    "code": {
+      "id": "CH10D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH10",
+        "level": 1,
+        "name": {
+          "local": "Fribourg",
+          "en": "Fribourg",
+          "slug": "fribourg-ch10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.832",
+      "lon": "7.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dietikon",
+      "en": "Dietikon",
+      "slug": "dietikon-ch12d06"
+    },
+    "code": {
+      "id": "CH12D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.388",
+      "lon": "8.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH09D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Basel-Stadt (unincorporated)",
+      "en": "Basel-Stadt (unincorporated)",
+      "slug": "basel-stadt-unincorporated-ch09d01"
+    },
+    "code": {
+      "id": "CH09D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH09",
+      "level": 1,
+      "name": {
+        "local": "Basel-Stadt",
+        "en": "Basel-City",
+        "slug": "basel-city-ch09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH09",
+        "level": 1,
+        "name": {
+          "local": "Basel-Stadt",
+          "en": "Basel-City",
+          "slug": "basel-city-ch09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.558",
+      "lon": "7.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moesa",
+      "en": "Moesa",
+      "slug": "moesa-ch02d08"
+    },
+    "code": {
+      "id": "CH02D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.34",
+      "lon": "9.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rheinfelden",
+      "en": "Rheinfelden",
+      "slug": "rheinfelden-ch16d06"
+    },
+    "code": {
+      "id": "CH16D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.556",
+      "lon": "7.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seeland",
+      "en": "Seeland",
+      "slug": "seeland-ch26d07"
+    },
+    "code": {
+      "id": "CH26D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.056",
+      "lon": "7.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waldenburg",
+      "en": "Waldenburg",
+      "slug": "waldenburg-ch22d03"
+    },
+    "code": {
+      "id": "CH22D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.388",
+      "lon": "7.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Conthey",
+      "en": "Conthey",
+      "slug": "conthey-ch06d06"
+    },
+    "code": {
+      "id": "CH06D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.247",
+      "lon": "7.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH08D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Genève",
+      "en": "Genève",
+      "slug": "geneve-ch08d01"
+    },
+    "code": {
+      "id": "CH08D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH08",
+      "level": 1,
+      "name": {
+        "local": "Genève",
+        "en": "Geneva",
+        "slug": "geneva-ch08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH08",
+        "level": 1,
+        "name": {
+          "local": "Genève",
+          "en": "Geneva",
+          "slug": "geneva-ch08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.196",
+      "lon": "6.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hofe",
+      "en": "Hofe",
+      "slug": "hofe-ch11d05"
+    },
+    "code": {
+      "id": "CH11D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.188",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH11D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "March",
+      "en": "March",
+      "slug": "march-ch11d06"
+    },
+    "code": {
+      "id": "CH11D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH11",
+        "level": 1,
+        "name": {
+          "local": "Schwyz",
+          "en": "Schwyz",
+          "slug": "schwyz-ch11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.15",
+      "lon": "8.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Liestal",
+      "en": "Liestal",
+      "slug": "liestal-ch22d04"
+    },
+    "code": {
+      "id": "CH22D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.487",
+      "lon": "7.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leventina",
+      "en": "Leventina",
+      "slug": "leventina-ch04d02"
+    },
+    "code": {
+      "id": "CH04D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.455",
+      "lon": "8.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uster",
+      "en": "Uster",
+      "slug": "uster-ch12d07"
+    },
+    "code": {
+      "id": "CH12D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.357",
+      "lon": "8.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Riviera",
+      "en": "Riviera",
+      "slug": "riviera-ch04d03"
+    },
+    "code": {
+      "id": "CH04D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.334",
+      "lon": "9.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH10D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Broye",
+      "en": "La Broye",
+      "slug": "la-broye-ch10d04"
+    },
+    "code": {
+      "id": "CH10D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH10",
+        "level": 1,
+        "name": {
+          "local": "Fribourg",
+          "en": "Fribourg",
+          "slug": "fribourg-ch10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.904",
+      "lon": "6.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wil",
+      "en": "Wil",
+      "slug": "wil-ch18d06"
+    },
+    "code": {
+      "id": "CH18D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.444",
+      "lon": "9.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gros-de-Vaud",
+      "en": "Gros-de-Vaud",
+      "slug": "gros-de-vaud-ch15d06"
+    },
+    "code": {
+      "id": "CH15D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.656",
+      "lon": "6.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH17D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thurgau (unincorporated)",
+      "en": "Thurgau (unincorporated)",
+      "slug": "thurgau-unincorporated-ch17d02"
+    },
+    "code": {
+      "id": "CH17D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH17",
+      "level": 1,
+      "name": {
+        "local": "Thurgau",
+        "en": "Thurgau",
+        "slug": "thurgau-ch17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH17",
+        "level": 1,
+        "name": {
+          "local": "Thurgau",
+          "en": "Thurgau",
+          "slug": "thurgau-ch17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.562",
+      "lon": "9.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH17D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kreuzlingen",
+      "en": "Kreuzlingen",
+      "slug": "kreuzlingen-ch17d03"
+    },
+    "code": {
+      "id": "CH17D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH17",
+      "level": 1,
+      "name": {
+        "local": "Thurgau",
+        "en": "Thurgau",
+        "slug": "thurgau-ch17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH17",
+        "level": 1,
+        "name": {
+          "local": "Thurgau",
+          "en": "Thurgau",
+          "slug": "thurgau-ch17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.627",
+      "lon": "9.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH17D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Weinfelden",
+      "en": "Weinfelden",
+      "slug": "weinfelden-ch17d04"
+    },
+    "code": {
+      "id": "CH17D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH17",
+      "level": 1,
+      "name": {
+        "local": "Thurgau",
+        "en": "Thurgau",
+        "slug": "thurgau-ch17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH17",
+        "level": 1,
+        "name": {
+          "local": "Thurgau",
+          "en": "Thurgau",
+          "slug": "thurgau-ch17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.536",
+      "lon": "9.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vallemaggia",
+      "en": "Vallemaggia",
+      "slug": "vallemaggia-ch04d04"
+    },
+    "code": {
+      "id": "CH04D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.372",
+      "lon": "8.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH17D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arbon",
+      "en": "Arbon",
+      "slug": "arbon-ch17d05"
+    },
+    "code": {
+      "id": "CH17D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH17",
+      "level": 1,
+      "name": {
+        "local": "Thurgau",
+        "en": "Thurgau",
+        "slug": "thurgau-ch17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH17",
+        "level": 1,
+        "name": {
+          "local": "Thurgau",
+          "en": "Thurgau",
+          "slug": "thurgau-ch17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.561",
+      "lon": "9.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarganserland",
+      "en": "Sarganserland",
+      "slug": "sarganserland-ch18d07"
+    },
+    "code": {
+      "id": "CH18D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.004",
+      "lon": "9.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saint-Maurice",
+      "en": "Saint-Maurice",
+      "slug": "saint-maurice-ch06d07"
+    },
+    "code": {
+      "id": "CH06D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.151",
+      "lon": "6.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hinwil",
+      "en": "Hinwil",
+      "slug": "hinwil-ch12d08"
+    },
+    "code": {
+      "id": "CH12D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.303",
+      "lon": "8.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Broye-Vully",
+      "en": "Broye-Vully",
+      "slug": "broye-vully-ch15d07"
+    },
+    "code": {
+      "id": "CH15D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.698",
+      "lon": "6.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH22D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arlesheim",
+      "en": "Arlesheim",
+      "slug": "arlesheim-ch22d05"
+    },
+    "code": {
+      "id": "CH22D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH22",
+      "level": 1,
+      "name": {
+        "local": "Basel-Landschaft",
+        "en": "Basel-Country",
+        "slug": "basel-country-ch22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH22",
+        "level": 1,
+        "name": {
+          "local": "Basel-Landschaft",
+          "en": "Basel-Country",
+          "slug": "basel-country-ch22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.49",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH13D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nidwalden",
+      "en": "Nidwalden",
+      "slug": "nidwalden-ch13d01"
+    },
+    "code": {
+      "id": "CH13D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH13",
+      "level": 1,
+      "name": {
+        "local": "Nidwalden",
+        "en": "Nidwalden",
+        "slug": "nidwalden-ch13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH13",
+        "level": 1,
+        "name": {
+          "local": "Nidwalden",
+          "en": "Nidwalden",
+          "slug": "nidwalden-ch13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.933",
+      "lon": "8.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Locarno",
+      "en": "Locarno",
+      "slug": "locarno-ch04d05"
+    },
+    "code": {
+      "id": "CH04D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.2",
+      "lon": "8.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Laufenburg",
+      "en": "Laufenburg",
+      "slug": "laufenburg-ch16d07"
+    },
+    "code": {
+      "id": "CH16D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.507",
+      "lon": "8.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH17D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Munchwilen",
+      "en": "Munchwilen",
+      "slug": "munchwilen-ch17d06"
+    },
+    "code": {
+      "id": "CH17D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH17",
+      "level": 1,
+      "name": {
+        "local": "Thurgau",
+        "en": "Thurgau",
+        "slug": "thurgau-ch17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH17",
+        "level": 1,
+        "name": {
+          "local": "Thurgau",
+          "en": "Thurgau",
+          "slug": "thurgau-ch17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.464",
+      "lon": "8.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kulm",
+      "en": "Kulm",
+      "slug": "kulm-ch16d08"
+    },
+    "code": {
+      "id": "CH16D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.291",
+      "lon": "8.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Herens",
+      "en": "Herens",
+      "slug": "herens-ch06d08"
+    },
+    "code": {
+      "id": "CH06D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.078",
+      "lon": "7.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aarau",
+      "en": "Aarau",
+      "slug": "aarau-ch16d09"
+    },
+    "code": {
+      "id": "CH16D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.386",
+      "lon": "8.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bellinzona",
+      "en": "Bellinzona",
+      "slug": "bellinzona-ch04d06"
+    },
+    "code": {
+      "id": "CH04D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.202",
+      "lon": "9.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brugg",
+      "en": "Brugg",
+      "slug": "brugg-ch16d10"
+    },
+    "code": {
+      "id": "CH16D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.486",
+      "lon": "8.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dielsdorf",
+      "en": "Dielsdorf",
+      "slug": "dielsdorf-ch12d09"
+    },
+    "code": {
+      "id": "CH12D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.487",
+      "lon": "8.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH10D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Gruyere",
+      "en": "La Gruyere",
+      "slug": "la-gruyere-ch10d05"
+    },
+    "code": {
+      "id": "CH10D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH10",
+        "level": 1,
+        "name": {
+          "local": "Fribourg",
+          "en": "Fribourg",
+          "slug": "fribourg-ch10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.616",
+      "lon": "7.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Plessur",
+      "en": "Plessur",
+      "slug": "plessur-ch02d09"
+    },
+    "code": {
+      "id": "CH02D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.806",
+      "lon": "9.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH01D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Glarus",
+      "en": "Glarus",
+      "slug": "glarus-ch01d01"
+    },
+    "code": {
+      "id": "CH01D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH01",
+      "level": 1,
+      "name": {
+        "local": "Glarus",
+        "en": "Glarus",
+        "slug": "glarus-ch01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH01",
+        "level": 1,
+        "name": {
+          "local": "Glarus",
+          "en": "Glarus",
+          "slug": "glarus-ch01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.978",
+      "lon": "9.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rheintal",
+      "en": "Rheintal",
+      "slug": "rheintal-ch18d08"
+    },
+    "code": {
+      "id": "CH18D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.348",
+      "lon": "9.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lausanne",
+      "en": "Lausanne",
+      "slug": "lausanne-ch15d08"
+    },
+    "code": {
+      "id": "CH15D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.542",
+      "lon": "6.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oberaargau",
+      "en": "Oberaargau",
+      "slug": "oberaargau-ch26d08"
+    },
+    "code": {
+      "id": "CH26D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.179",
+      "lon": "7.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lenzburg",
+      "en": "Lenzburg",
+      "slug": "lenzburg-ch16d11"
+    },
+    "code": {
+      "id": "CH16D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.375",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulach",
+      "en": "Bulach",
+      "slug": "bulach-ch12d10"
+    },
+    "code": {
+      "id": "CH12D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.511",
+      "lon": "8.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vaud (unincorporated)",
+      "en": "Vaud (unincorporated)",
+      "slug": "vaud-unincorporated-ch15d09"
+    },
+    "code": {
+      "id": "CH15D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.487",
+      "lon": "6.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brig",
+      "en": "Brig",
+      "slug": "brig-ch06d09"
+    },
+    "code": {
+      "id": "CH06D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.186",
+      "lon": "8.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH10D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Veveyse",
+      "en": "La Veveyse",
+      "slug": "la-veveyse-ch10d06"
+    },
+    "code": {
+      "id": "CH10D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH10",
+        "level": 1,
+        "name": {
+          "local": "Fribourg",
+          "en": "Fribourg",
+          "slug": "fribourg-ch10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.545",
+      "lon": "6.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH10D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Sarine",
+      "en": "La Sarine",
+      "slug": "la-sarine-ch10d07"
+    },
+    "code": {
+      "id": "CH10D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH10",
+        "level": 1,
+        "name": {
+          "local": "Fribourg",
+          "en": "Fribourg",
+          "slug": "fribourg-ch10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.779",
+      "lon": "7.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goms",
+      "en": "Goms",
+      "slug": "goms-ch06d10"
+    },
+    "code": {
+      "id": "CH06D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.444",
+      "lon": "8.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blenio",
+      "en": "Blenio",
+      "slug": "blenio-ch04d07"
+    },
+    "code": {
+      "id": "CH04D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.504",
+      "lon": "8.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Raron",
+      "en": "Raron",
+      "slug": "raron-ch06d11"
+    },
+    "code": {
+      "id": "CH06D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.372",
+      "lon": "7.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Biel/Bienne",
+      "en": "Biel/Bienne",
+      "slug": "biel-bienne-ch26d09"
+    },
+    "code": {
+      "id": "CH26D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.138",
+      "lon": "7.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bern (unincorporated)",
+      "en": "Bern (unincorporated)",
+      "slug": "bern-unincorporated-ch26d10"
+    },
+    "code": {
+      "id": "CH26D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.688",
+      "lon": "7.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D12",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Martigny",
+      "en": "Martigny",
+      "slug": "martigny-ch06d12"
+    },
+    "code": {
+      "id": "CH06D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.165",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lavaux-Oron",
+      "en": "Lavaux-Oron",
+      "slug": "lavaux-oron-ch15d10"
+    },
+    "code": {
+      "id": "CH15D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.541",
+      "lon": "6.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH15D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nyon",
+      "en": "Nyon",
+      "slug": "nyon-ch15d11"
+    },
+    "code": {
+      "id": "CH15D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH15",
+        "level": 1,
+        "name": {
+          "local": "Vaud",
+          "en": "Vaud",
+          "slug": "vaud-ch15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.444",
+      "lon": "6.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Winterthur",
+      "en": "Winterthur",
+      "slug": "winterthur-ch12d11"
+    },
+    "code": {
+      "id": "CH12D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.512",
+      "lon": "8.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sankt Gallen (unincorporated)",
+      "en": "Sankt Gallen (unincorporated)",
+      "slug": "sankt-gallen-unincorporated-ch18d09"
+    },
+    "code": {
+      "id": "CH18D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.514",
+      "lon": "9.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH19D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Porrentruy",
+      "en": "Porrentruy",
+      "slug": "porrentruy-ch19d03"
+    },
+    "code": {
+      "id": "CH19D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH19",
+      "level": 1,
+      "name": {
+        "local": "Jura",
+        "en": "Jura",
+        "slug": "jura-ch19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH19",
+        "level": 1,
+        "name": {
+          "local": "Jura",
+          "en": "Jura",
+          "slug": "jura-ch19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.413",
+      "lon": "7.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH26D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thun",
+      "en": "Thun",
+      "slug": "thun-ch26d11"
+    },
+    "code": {
+      "id": "CH26D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH26",
+        "level": 1,
+        "name": {
+          "local": "Bern",
+          "en": "Bern",
+          "slug": "bern-ch26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.774",
+      "lon": "7.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mendrisio",
+      "en": "Mendrisio",
+      "slug": "mendrisio-ch04d08"
+    },
+    "code": {
+      "id": "CH04D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.874",
+      "lon": "8.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D13",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Monthey",
+      "en": "Monthey",
+      "slug": "monthey-ch06d13"
+    },
+    "code": {
+      "id": "CH06D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.247",
+      "lon": "6.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH03D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zug (unincorporated)",
+      "en": "Zug (unincorporated)",
+      "slug": "zug-unincorporated-ch03d01"
+    },
+    "code": {
+      "id": "CH03D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH03",
+      "level": 1,
+      "name": {
+        "local": "Zug",
+        "en": "Zug",
+        "slug": "zug-ch03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH03",
+        "level": 1,
+        "name": {
+          "local": "Zug",
+          "en": "Zug",
+          "slug": "zug-ch03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.157",
+      "lon": "8.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D12",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zurich",
+      "en": "Zurich",
+      "slug": "zurich-ch12d12"
+    },
+    "code": {
+      "id": "CH12D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.381",
+      "lon": "8.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Engiadina Bassa/Val Mustair",
+      "en": "Engiadina Bassa/Val Mustair",
+      "slug": "engiadina-bassa-val-mustair-ch02d10"
+    },
+    "code": {
+      "id": "CH02D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.752",
+      "lon": "10.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Viamala",
+      "en": "Viamala",
+      "slug": "viamala-ch02d11"
+    },
+    "code": {
+      "id": "CH02D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.581",
+      "lon": "9.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH14D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Entlebuch",
+      "en": "Entlebuch",
+      "slug": "entlebuch-ch14d01"
+    },
+    "code": {
+      "id": "CH14D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH14",
+        "level": 1,
+        "name": {
+          "local": "Luzern",
+          "en": "Lucerne",
+          "slug": "lucerne-ch14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.919",
+      "lon": "8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH14D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Willisau",
+      "en": "Willisau",
+      "slug": "willisau-ch14d02"
+    },
+    "code": {
+      "id": "CH14D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH14",
+        "level": 1,
+        "name": {
+          "local": "Luzern",
+          "en": "Lucerne",
+          "slug": "lucerne-ch14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.165",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH14D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sursee",
+      "en": "Sursee",
+      "slug": "sursee-ch14d03"
+    },
+    "code": {
+      "id": "CH14D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH14",
+        "level": 1,
+        "name": {
+          "local": "Luzern",
+          "en": "Lucerne",
+          "slug": "lucerne-ch14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.155",
+      "lon": "8.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH14D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Luzern-Land",
+      "en": "Luzern-Land",
+      "slug": "luzern-land-ch14d04"
+    },
+    "code": {
+      "id": "CH14D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH14",
+        "level": 1,
+        "name": {
+          "local": "Luzern",
+          "en": "Lucerne",
+          "slug": "lucerne-ch14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.022",
+      "lon": "8.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH14D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hochdorf",
+      "en": "Hochdorf",
+      "slug": "hochdorf-ch14d05"
+    },
+    "code": {
+      "id": "CH14D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH14",
+        "level": 1,
+        "name": {
+          "local": "Luzern",
+          "en": "Lucerne",
+          "slug": "lucerne-ch14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.171",
+      "lon": "8.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thal",
+      "en": "Thal",
+      "slug": "thal-ch23d01"
+    },
+    "code": {
+      "id": "CH23D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.316",
+      "lon": "7.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH20D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hinterland",
+      "en": "Hinterland",
+      "slug": "hinterland-ch20d01"
+    },
+    "code": {
+      "id": "CH20D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH20",
+      "level": 1,
+      "name": {
+        "local": "Appenzell Ausserrhoden",
+        "en": "Appenzell Ausserrhoden",
+        "slug": "appenzell-ausserrhoden-ch20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH20",
+        "level": 1,
+        "name": {
+          "local": "Appenzell Ausserrhoden",
+          "en": "Appenzell Ausserrhoden",
+          "slug": "appenzell-ausserrhoden-ch20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.354",
+      "lon": "9.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebern",
+      "en": "Lebern",
+      "slug": "lebern-ch23d02"
+    },
+    "code": {
+      "id": "CH23D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.221",
+      "lon": "7.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Olten",
+      "en": "Olten",
+      "slug": "olten-ch23d03"
+    },
+    "code": {
+      "id": "CH23D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.335",
+      "lon": "7.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gosgen",
+      "en": "Gosgen",
+      "slug": "gosgen-ch23d04"
+    },
+    "code": {
+      "id": "CH23D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.387",
+      "lon": "7.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bucheggberg",
+      "en": "Bucheggberg",
+      "slug": "bucheggberg-ch23d05"
+    },
+    "code": {
+      "id": "CH23D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.13",
+      "lon": "7.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gau",
+      "en": "Gau",
+      "slug": "gau-ch23d06"
+    },
+    "code": {
+      "id": "CH23D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.298",
+      "lon": "7.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH20D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mittelland",
+      "en": "Mittelland",
+      "slug": "mittelland-ch20d02"
+    },
+    "code": {
+      "id": "CH20D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH20",
+      "level": 1,
+      "name": {
+        "local": "Appenzell Ausserrhoden",
+        "en": "Appenzell Ausserrhoden",
+        "slug": "appenzell-ausserrhoden-ch20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH20",
+        "level": 1,
+        "name": {
+          "local": "Appenzell Ausserrhoden",
+          "en": "Appenzell Ausserrhoden",
+          "slug": "appenzell-ausserrhoden-ch20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.385",
+      "lon": "9.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Unterklettgau",
+      "en": "Unterklettgau",
+      "slug": "unterklettgau-ch07d01"
+    },
+    "code": {
+      "id": "CH07D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.694",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH20D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vorderland",
+      "en": "Vorderland",
+      "slug": "vorderland-ch20d03"
+    },
+    "code": {
+      "id": "CH20D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH20",
+      "level": 1,
+      "name": {
+        "local": "Appenzell Ausserrhoden",
+        "en": "Appenzell Ausserrhoden",
+        "slug": "appenzell-ausserrhoden-ch20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH20",
+        "level": 1,
+        "name": {
+          "local": "Appenzell Ausserrhoden",
+          "en": "Appenzell Ausserrhoden",
+          "slug": "appenzell-ausserrhoden-ch20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.424",
+      "lon": "9.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Schleitheim",
+      "en": "Schleitheim",
+      "slug": "schleitheim-ch07d02"
+    },
+    "code": {
+      "id": "CH07D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.755",
+      "lon": "8.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Reiat",
+      "en": "Reiat",
+      "slug": "reiat-ch07d03"
+    },
+    "code": {
+      "id": "CH07D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.757",
+      "lon": "8.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oberklettgau",
+      "en": "Oberklettgau",
+      "slug": "oberklettgau-ch07d04"
+    },
+    "code": {
+      "id": "CH07D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.687",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Solothurn",
+      "en": "Solothurn",
+      "slug": "solothurn-ch23d07"
+    },
+    "code": {
+      "id": "CH23D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.21",
+      "lon": "7.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dorneck",
+      "en": "Dorneck",
+      "slug": "dorneck-ch23d08"
+    },
+    "code": {
+      "id": "CH23D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.45",
+      "lon": "7.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH14D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Luzern-Stadt",
+      "en": "Luzern-Stadt",
+      "slug": "luzern-stadt-ch14d06"
+    },
+    "code": {
+      "id": "CH14D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH14",
+        "level": 1,
+        "name": {
+          "local": "Luzern",
+          "en": "Lucerne",
+          "slug": "lucerne-ch14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.051",
+      "lon": "8.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Schaffhausen",
+      "en": "Schaffhausen",
+      "slug": "schaffhausen-ch07d05"
+    },
+    "code": {
+      "id": "CH07D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.723",
+      "lon": "8.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thierstein",
+      "en": "Thierstein",
+      "slug": "thierstein-ch23d09"
+    },
+    "code": {
+      "id": "CH23D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.378",
+      "lon": "7.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wasseramt",
+      "en": "Wasseramt",
+      "slug": "wasseramt-ch23d10"
+    },
+    "code": {
+      "id": "CH23D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.191",
+      "lon": "7.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D13",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zurich (unincorporated)",
+      "en": "Zurich (unincorporated)",
+      "slug": "zurich-unincorporated-ch12d13"
+    },
+    "code": {
+      "id": "CH12D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.233",
+      "lon": "8.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH05D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Appenzell Innerrhoden (unincorporated)",
+      "en": "Appenzell Innerrhoden (unincorporated)",
+      "slug": "appenzell-innerrhoden-unincorporated-ch05d01"
+    },
+    "code": {
+      "id": "CH05D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH05",
+      "level": 1,
+      "name": {
+        "local": "Appenzell Innerrhoden",
+        "en": "Appenzell Innerrhoden",
+        "slug": "appenzell-innerrhoden-ch05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH05",
+        "level": 1,
+        "name": {
+          "local": "Appenzell Innerrhoden",
+          "en": "Appenzell Innerrhoden",
+          "slug": "appenzell-innerrhoden-ch05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.307",
+      "lon": "9.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH21D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Neuchâtel (unincorporated)",
+      "en": "Neuchâtel (unincorporated)",
+      "slug": "neuchatel-unincorporated-ch21d01"
+    },
+    "code": {
+      "id": "CH21D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH21",
+      "level": 1,
+      "name": {
+        "local": "Neuchâtel",
+        "en": "Neuchatel",
+        "slug": "neuchatel-ch21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH21",
+        "level": 1,
+        "name": {
+          "local": "Neuchâtel",
+          "en": "Neuchatel",
+          "slug": "neuchatel-ch21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.02",
+      "lon": "6.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH07D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stein",
+      "en": "Stein",
+      "slug": "stein-ch07d06"
+    },
+    "code": {
+      "id": "CH07D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH07",
+        "level": 1,
+        "name": {
+          "local": "Schaffhausen",
+          "en": "Schaffhausen",
+          "slug": "schaffhausen-ch07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.693",
+      "lon": "8.83"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

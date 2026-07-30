@@ -1,0 +1,587 @@
+[
+  {
+    "id": "CH06D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brig",
+      "en": "Brig",
+      "slug": "brig-ch06d09"
+    },
+    "code": {
+      "id": "CH06D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.186",
+      "lon": "8.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Conthey",
+      "en": "Conthey",
+      "slug": "conthey-ch06d06"
+    },
+    "code": {
+      "id": "CH06D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.247",
+      "lon": "7.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Entremont",
+      "en": "Entremont",
+      "slug": "entremont-ch06d03"
+    },
+    "code": {
+      "id": "CH06D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46",
+      "lon": "7.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goms",
+      "en": "Goms",
+      "slug": "goms-ch06d10"
+    },
+    "code": {
+      "id": "CH06D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.444",
+      "lon": "8.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Herens",
+      "en": "Herens",
+      "slug": "herens-ch06d08"
+    },
+    "code": {
+      "id": "CH06D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.078",
+      "lon": "7.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leuk",
+      "en": "Leuk",
+      "slug": "leuk-ch06d01"
+    },
+    "code": {
+      "id": "CH06D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.313",
+      "lon": "7.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D12",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Martigny",
+      "en": "Martigny",
+      "slug": "martigny-ch06d12"
+    },
+    "code": {
+      "id": "CH06D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.165",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D13",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Monthey",
+      "en": "Monthey",
+      "slug": "monthey-ch06d13"
+    },
+    "code": {
+      "id": "CH06D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.247",
+      "lon": "6.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Raron",
+      "en": "Raron",
+      "slug": "raron-ch06d11"
+    },
+    "code": {
+      "id": "CH06D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.372",
+      "lon": "7.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saint-Maurice",
+      "en": "Saint-Maurice",
+      "slug": "saint-maurice-ch06d07"
+    },
+    "code": {
+      "id": "CH06D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.151",
+      "lon": "6.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sierre",
+      "en": "Sierre",
+      "slug": "sierre-ch06d02"
+    },
+    "code": {
+      "id": "CH06D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.163",
+      "lon": "7.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sion",
+      "en": "Sion",
+      "slug": "sion-ch06d04"
+    },
+    "code": {
+      "id": "CH06D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.25",
+      "lon": "7.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH06D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Visp",
+      "en": "Visp",
+      "slug": "visp-ch06d05"
+    },
+    "code": {
+      "id": "CH06D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH06",
+        "level": 1,
+        "name": {
+          "local": "Valais",
+          "en": "Valais",
+          "slug": "valais-ch06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.123",
+      "lon": "7.877"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

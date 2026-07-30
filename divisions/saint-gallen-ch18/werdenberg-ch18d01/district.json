@@ -1,0 +1,45 @@
+{
+  "id": "CH18D01",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Werdenberg",
+    "en": "Werdenberg",
+    "slug": "werdenberg-ch18d01"
+  },
+  "code": {
+    "id": "CH18D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH18",
+    "level": 1,
+    "name": {
+      "local": "St. Gallen",
+      "en": "Saint Gallen",
+      "slug": "saint-gallen-ch18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.169",
+    "lon": "9.435"
+  },
+  "metadata": {},
+  "source": {}
+}

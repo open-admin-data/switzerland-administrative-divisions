@@ -1,0 +1,33 @@
+{
+  "id": "CH12",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Zürich",
+    "en": "Zurich",
+    "slug": "zurich-ch12"
+  },
+  "code": {
+    "id": "CH12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.39",
+    "lon": "8.661"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/zurich-ch12/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

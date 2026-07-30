@@ -1,0 +1,45 @@
+{
+  "id": "CH16D07",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Laufenburg",
+    "en": "Laufenburg",
+    "slug": "laufenburg-ch16d07"
+  },
+  "code": {
+    "id": "CH16D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH16",
+    "level": 1,
+    "name": {
+      "local": "Aargau",
+      "en": "Aargau",
+      "slug": "aargau-ch16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.507",
+    "lon": "8.032"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "CH05",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Appenzell Innerrhoden",
+    "en": "Appenzell Innerrhoden",
+    "slug": "appenzell-innerrhoden-ch05"
+  },
+  "code": {
+    "id": "CH05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.307",
+    "lon": "9.402"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/appenzell-innerrhoden-ch05/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

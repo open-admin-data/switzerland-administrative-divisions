@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CH03D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zug (unincorporated)",
+      "en": "Zug (unincorporated)",
+      "slug": "zug-unincorporated-ch03d01"
+    },
+    "code": {
+      "id": "CH03D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH03",
+      "level": 1,
+      "name": {
+        "local": "Zug",
+        "en": "Zug",
+        "slug": "zug-ch03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH03",
+        "level": 1,
+        "name": {
+          "local": "Zug",
+          "en": "Zug",
+          "slug": "zug-ch03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.157",
+      "lon": "8.537"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

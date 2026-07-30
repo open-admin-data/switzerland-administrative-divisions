@@ -1,0 +1,33 @@
+{
+  "id": "CH17",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Thurgau",
+    "en": "Thurgau",
+    "slug": "thurgau-ch17"
+  },
+  "code": {
+    "id": "CH17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.587",
+    "lon": "9.063"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/thurgau-ch17/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

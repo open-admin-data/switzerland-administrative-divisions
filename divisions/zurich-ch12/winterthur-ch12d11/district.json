@@ -1,0 +1,45 @@
+{
+  "id": "CH12D11",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Winterthur",
+    "en": "Winterthur",
+    "slug": "winterthur-ch12d11"
+  },
+  "code": {
+    "id": "CH12D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH12",
+    "level": 1,
+    "name": {
+      "local": "Zürich",
+      "en": "Zurich",
+      "slug": "zurich-ch12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.512",
+    "lon": "8.788"
+  },
+  "metadata": {},
+  "source": {}
+}

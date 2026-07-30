@@ -1,0 +1,33 @@
+{
+  "id": "CH11",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Schwyz",
+    "en": "Schwyz",
+    "slug": "schwyz-ch11"
+  },
+  "code": {
+    "id": "CH11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.063",
+    "lon": "8.777"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/schwyz-ch11/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

@@ -1,0 +1,14 @@
+# Basel-City — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH09
+> Coordinates: 47.558, 7.599
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Basel-Stadt (unincorporated)
+
+Code: CH09D01, Coordinates: 47.558, 7.599
+
+

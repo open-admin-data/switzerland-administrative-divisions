@@ -1,0 +1,45 @@
+{
+  "id": "CH02D01",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Surselva",
+    "en": "Surselva",
+    "slug": "surselva-ch02d01"
+  },
+  "code": {
+    "id": "CH02D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH02",
+    "level": 1,
+    "name": {
+      "local": "Graubünden",
+      "en": "Graubunden",
+      "slug": "graubunden-ch02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.716",
+    "lon": "9.108"
+  },
+  "metadata": {},
+  "source": {}
+}

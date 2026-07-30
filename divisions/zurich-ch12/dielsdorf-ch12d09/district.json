@@ -1,0 +1,45 @@
+{
+  "id": "CH12D09",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dielsdorf",
+    "en": "Dielsdorf",
+    "slug": "dielsdorf-ch12d09"
+  },
+  "code": {
+    "id": "CH12D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH12",
+    "level": 1,
+    "name": {
+      "local": "Zürich",
+      "en": "Zurich",
+      "slug": "zurich-ch12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.487",
+    "lon": "8.431"
+  },
+  "metadata": {},
+  "source": {}
+}

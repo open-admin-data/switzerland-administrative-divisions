@@ -1,0 +1,45 @@
+{
+  "id": "CH18D09",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sankt Gallen (unincorporated)",
+    "en": "Sankt Gallen (unincorporated)",
+    "slug": "sankt-gallen-unincorporated-ch18d09"
+  },
+  "code": {
+    "id": "CH18D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH18",
+    "level": 1,
+    "name": {
+      "local": "St. Gallen",
+      "en": "Saint Gallen",
+      "slug": "saint-gallen-ch18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.514",
+    "lon": "9.514"
+  },
+  "metadata": {},
+  "source": {}
+}

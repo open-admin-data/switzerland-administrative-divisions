@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CH25D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uri (unincorporated)",
+      "en": "Uri (unincorporated)",
+      "slug": "uri-unincorporated-ch25d01"
+    },
+    "code": {
+      "id": "CH25D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH25",
+      "level": 1,
+      "name": {
+        "local": "Uri",
+        "en": "Uri",
+        "slug": "uri-ch25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH25",
+        "level": 1,
+        "name": {
+          "local": "Uri",
+          "en": "Uri",
+          "slug": "uri-ch25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.812",
+      "lon": "8.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

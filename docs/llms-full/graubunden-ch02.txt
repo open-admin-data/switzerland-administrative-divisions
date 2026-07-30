@@ -1,0 +1,64 @@
+# Graubunden — Switzerland Administrative Divisions
+
+> 11 districts
+> Code: CH02
+> Coordinates: 46.674, 9.719
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Albula
+
+Code: CH02D07, Coordinates: 46.618, 9.614
+
+
+### Bernina
+
+Code: CH02D02, Coordinates: 46.349, 10.052
+
+
+### Engiadina Bassa/Val Mustair
+
+Code: CH02D10, Coordinates: 46.752, 10.259
+
+
+### Imboden
+
+Code: CH02D04, Coordinates: 46.84, 9.375
+
+
+### Landquart
+
+Code: CH02D06, Coordinates: 46.935, 9.556
+
+
+### Maloja
+
+Code: CH02D05, Coordinates: 46.464, 9.835
+
+
+### Moesa
+
+Code: CH02D08, Coordinates: 46.34, 9.187
+
+
+### Plessur
+
+Code: CH02D09, Coordinates: 46.806, 9.636
+
+
+### Prattigau/Davos
+
+Code: CH02D03, Coordinates: 46.948, 9.732
+
+
+### Surselva
+
+Code: CH02D01, Coordinates: 46.716, 9.108
+
+
+### Viamala
+
+Code: CH02D11, Coordinates: 46.581, 9.403
+
+

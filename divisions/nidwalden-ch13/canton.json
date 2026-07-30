@@ -1,0 +1,33 @@
+{
+  "id": "CH13",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Nidwalden",
+    "en": "Nidwalden",
+    "slug": "nidwalden-ch13"
+  },
+  "code": {
+    "id": "CH13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.933",
+    "lon": "8.405"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/nidwalden-ch13/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

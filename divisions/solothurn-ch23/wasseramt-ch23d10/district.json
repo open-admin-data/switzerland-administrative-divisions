@@ -1,0 +1,45 @@
+{
+  "id": "CH23D10",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wasseramt",
+    "en": "Wasseramt",
+    "slug": "wasseramt-ch23d10"
+  },
+  "code": {
+    "id": "CH23D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH23",
+    "level": 1,
+    "name": {
+      "local": "Solothurn",
+      "en": "Solothurn",
+      "slug": "solothurn-ch23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.191",
+    "lon": "7.599"
+  },
+  "metadata": {},
+  "source": {}
+}

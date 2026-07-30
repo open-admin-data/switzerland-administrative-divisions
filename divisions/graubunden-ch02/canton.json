@@ -1,0 +1,33 @@
+{
+  "id": "CH02",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Graubünden",
+    "en": "Graubunden",
+    "slug": "graubunden-ch02"
+  },
+  "code": {
+    "id": "CH02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.674",
+    "lon": "9.719"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/graubunden-ch02/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "CH09",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Basel-Stadt",
+    "en": "Basel-City",
+    "slug": "basel-city-ch09"
+  },
+  "code": {
+    "id": "CH09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.558",
+    "lon": "7.599"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/basel-city-ch09/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

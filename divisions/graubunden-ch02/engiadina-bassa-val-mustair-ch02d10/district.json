@@ -1,0 +1,45 @@
+{
+  "id": "CH02D10",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Engiadina Bassa/Val Mustair",
+    "en": "Engiadina Bassa/Val Mustair",
+    "slug": "engiadina-bassa-val-mustair-ch02d10"
+  },
+  "code": {
+    "id": "CH02D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH02",
+    "level": 1,
+    "name": {
+      "local": "Graubünden",
+      "en": "Graubunden",
+      "slug": "graubunden-ch02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.752",
+    "lon": "10.259"
+  },
+  "metadata": {},
+  "source": {}
+}

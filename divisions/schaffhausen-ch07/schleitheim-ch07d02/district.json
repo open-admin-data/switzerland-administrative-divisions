@@ -1,0 +1,45 @@
+{
+  "id": "CH07D02",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Schleitheim",
+    "en": "Schleitheim",
+    "slug": "schleitheim-ch07d02"
+  },
+  "code": {
+    "id": "CH07D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH07",
+    "level": 1,
+    "name": {
+      "local": "Schaffhausen",
+      "en": "Schaffhausen",
+      "slug": "schaffhausen-ch07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.755",
+    "lon": "8.53"
+  },
+  "metadata": {},
+  "source": {}
+}

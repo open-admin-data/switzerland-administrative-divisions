@@ -1,0 +1,63 @@
+# Switzerland Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Per-Canton Data Files
+
+- [Glarus](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/glarus-ch01.txt) — 1 districts
+- [Graubunden](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/graubunden-ch02.txt) — 11 districts
+- [Zug](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/zug-ch03.txt) — 1 districts
+- [Ticino](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/ticino-ch04.txt) — 8 districts
+- [Appenzell Innerrhoden](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/appenzell-innerrhoden-ch05.txt) — 1 districts
+- [Valais](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/valais-ch06.txt) — 13 districts
+- [Schaffhausen](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/schaffhausen-ch07.txt) — 6 districts
+- [Geneva](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/geneva-ch08.txt) — 1 districts
+- [Basel-City](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/basel-city-ch09.txt) — 1 districts
+- [Fribourg](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/fribourg-ch10.txt) — 7 districts
+- [Schwyz](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/schwyz-ch11.txt) — 6 districts
+- [Zurich](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/zurich-ch12.txt) — 13 districts
+- [Nidwalden](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/nidwalden-ch13.txt) — 1 districts
+- [Lucerne](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/lucerne-ch14.txt) — 6 districts
+- [Vaud](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/vaud-ch15.txt) — 11 districts
+- [Aargau](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/aargau-ch16.txt) — 11 districts
+- [Thurgau](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/thurgau-ch17.txt) — 6 districts
+- [Saint Gallen](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/saint-gallen-ch18.txt) — 9 districts
+- [Jura](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/jura-ch19.txt) — 3 districts
+- [Appenzell Ausserrhoden](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/appenzell-ausserrhoden-ch20.txt) — 3 districts
+- [Neuchatel](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/neuchatel-ch21.txt) — 1 districts
+- [Basel-Country](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/basel-country-ch22.txt) — 5 districts
+- [Solothurn](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/solothurn-ch23.txt) — 10 districts
+- [Obwalden](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/obwalden-ch24.txt) — 1 districts
+- [Uri](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/uri-ch25.txt) — 1 districts
+- [Bern](https://github.com/open-admin-data/switzerland-administrative-divisions/blob/main/docs/llms-full/bern-ch26.txt) — 11 districts
+
+## Summary
+
+| Canton | Districts | 
+|---|---|
+| Glarus | 1 | 
+| Graubunden | 11 | 
+| Zug | 1 | 
+| Ticino | 8 | 
+| Appenzell Innerrhoden | 1 | 
+| Valais | 13 | 
+| Schaffhausen | 6 | 
+| Geneva | 1 | 
+| Basel-City | 1 | 
+| Fribourg | 7 | 
+| Schwyz | 6 | 
+| Zurich | 13 | 
+| Nidwalden | 1 | 
+| Lucerne | 6 | 
+| Vaud | 11 | 
+| Aargau | 11 | 
+| Thurgau | 6 | 
+| Saint Gallen | 9 | 
+| Jura | 3 | 
+| Appenzell Ausserrhoden | 3 | 
+| Neuchatel | 1 | 
+| Basel-Country | 5 | 
+| Solothurn | 10 | 
+| Obwalden | 1 | 
+| Uri | 1 | 
+| Bern | 11 | 

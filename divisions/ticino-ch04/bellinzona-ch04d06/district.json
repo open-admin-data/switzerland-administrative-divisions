@@ -1,0 +1,45 @@
+{
+  "id": "CH04D06",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bellinzona",
+    "en": "Bellinzona",
+    "slug": "bellinzona-ch04d06"
+  },
+  "code": {
+    "id": "CH04D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH04",
+    "level": 1,
+    "name": {
+      "local": "Ticino",
+      "en": "Ticino",
+      "slug": "ticino-ch04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.202",
+    "lon": "9.009"
+  },
+  "metadata": {},
+  "source": {}
+}

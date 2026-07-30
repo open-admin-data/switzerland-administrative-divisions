@@ -1,0 +1,14 @@
+# Geneva — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH08
+> Coordinates: 46.196, 6.128
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Genève
+
+Code: CH08D01, Coordinates: 46.196, 6.128
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "CH15D01",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aigle",
+    "en": "Aigle",
+    "slug": "aigle-ch15d01"
+  },
+  "code": {
+    "id": "CH15D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH15",
+    "level": 1,
+    "name": {
+      "local": "Vaud",
+      "en": "Vaud",
+      "slug": "vaud-ch15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.313",
+    "lon": "7.067"
+  },
+  "metadata": {},
+  "source": {}
+}

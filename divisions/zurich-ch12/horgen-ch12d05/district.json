@@ -1,0 +1,45 @@
+{
+  "id": "CH12D05",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Horgen",
+    "en": "Horgen",
+    "slug": "horgen-ch12d05"
+  },
+  "code": {
+    "id": "CH12D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH12",
+    "level": 1,
+    "name": {
+      "local": "Zürich",
+      "en": "Zurich",
+      "slug": "zurich-ch12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.206",
+    "lon": "8.648"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CH24D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Obwalden (unincorporated)",
+      "en": "Obwalden (unincorporated)",
+      "slug": "obwalden-unincorporated-ch24d01"
+    },
+    "code": {
+      "id": "CH24D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH24",
+      "level": 1,
+      "name": {
+        "local": "Obwalden",
+        "en": "Obwalden",
+        "slug": "obwalden-ch24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH24",
+        "level": 1,
+        "name": {
+          "local": "Obwalden",
+          "en": "Obwalden",
+          "slug": "obwalden-ch24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.865",
+      "lon": "8.225"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

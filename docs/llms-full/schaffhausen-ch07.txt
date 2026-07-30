@@ -1,0 +1,39 @@
+# Schaffhausen — Switzerland Administrative Divisions
+
+> 6 districts
+> Code: CH07
+> Coordinates: 47.725, 8.562
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Oberklettgau
+
+Code: CH07D04, Coordinates: 47.687, 8.516
+
+
+### Reiat
+
+Code: CH07D03, Coordinates: 47.757, 8.666
+
+
+### Schaffhausen
+
+Code: CH07D05, Coordinates: 47.723, 8.599
+
+
+### Schleitheim
+
+Code: CH07D02, Coordinates: 47.755, 8.53
+
+
+### Stein
+
+Code: CH07D06, Coordinates: 47.693, 8.83
+
+
+### Unterklettgau
+
+Code: CH07D01, Coordinates: 47.694, 8.444
+
+

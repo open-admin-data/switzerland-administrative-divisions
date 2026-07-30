@@ -1,0 +1,14 @@
+# Uri — Switzerland Administrative Divisions
+
+> 1 districts
+> Code: CH25
+> Coordinates: 46.812, 8.629
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Uri (unincorporated)
+
+Code: CH25D01, Coordinates: 46.812, 8.629
+
+

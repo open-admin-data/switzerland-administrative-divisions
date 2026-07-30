@@ -1,0 +1,74 @@
+# Valais — Switzerland Administrative Divisions
+
+> 13 districts
+> Code: CH06
+> Coordinates: 46.196, 7.677
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Brig
+
+Code: CH06D09, Coordinates: 46.186, 8.074
+
+
+### Conthey
+
+Code: CH06D06, Coordinates: 46.247, 7.249
+
+
+### Entremont
+
+Code: CH06D03, Coordinates: 46, 7.209
+
+
+### Goms
+
+Code: CH06D10, Coordinates: 46.444, 8.212
+
+
+### Herens
+
+Code: CH06D08, Coordinates: 46.078, 7.456
+
+
+### Leuk
+
+Code: CH06D01, Coordinates: 46.313, 7.663
+
+
+### Martigny
+
+Code: CH06D12, Coordinates: 46.165, 7.14
+
+
+### Monthey
+
+Code: CH06D13, Coordinates: 46.247, 6.909
+
+
+### Raron
+
+Code: CH06D11, Coordinates: 46.372, 7.804
+
+
+### Saint-Maurice
+
+Code: CH06D07, Coordinates: 46.151, 6.995
+
+
+### Sierre
+
+Code: CH06D02, Coordinates: 46.163, 7.592
+
+
+### Sion
+
+Code: CH06D04, Coordinates: 46.25, 7.356
+
+
+### Visp
+
+Code: CH06D05, Coordinates: 46.123, 7.877
+
+

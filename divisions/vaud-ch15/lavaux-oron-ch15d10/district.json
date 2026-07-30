@@ -1,0 +1,45 @@
+{
+  "id": "CH15D10",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lavaux-Oron",
+    "en": "Lavaux-Oron",
+    "slug": "lavaux-oron-ch15d10"
+  },
+  "code": {
+    "id": "CH15D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH15",
+    "level": 1,
+    "name": {
+      "local": "Vaud",
+      "en": "Vaud",
+      "slug": "vaud-ch15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH15",
+      "level": 1,
+      "name": {
+        "local": "Vaud",
+        "en": "Vaud",
+        "slug": "vaud-ch15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.541",
+    "lon": "6.759"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CH23D02",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lebern",
+    "en": "Lebern",
+    "slug": "lebern-ch23d02"
+  },
+  "code": {
+    "id": "CH23D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH23",
+    "level": 1,
+    "name": {
+      "local": "Solothurn",
+      "en": "Solothurn",
+      "slug": "solothurn-ch23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.221",
+    "lon": "7.46"
+  },
+  "metadata": {},
+  "source": {}
+}

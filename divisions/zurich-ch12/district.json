@@ -1,0 +1,587 @@
+[
+  {
+    "id": "CH12D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Affoltern",
+      "en": "Affoltern",
+      "slug": "affoltern-ch12d02"
+    },
+    "code": {
+      "id": "CH12D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.267",
+      "lon": "8.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Andelfingen",
+      "en": "Andelfingen",
+      "slug": "andelfingen-ch12d04"
+    },
+    "code": {
+      "id": "CH12D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.612",
+      "lon": "8.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulach",
+      "en": "Bulach",
+      "slug": "bulach-ch12d10"
+    },
+    "code": {
+      "id": "CH12D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.511",
+      "lon": "8.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dielsdorf",
+      "en": "Dielsdorf",
+      "slug": "dielsdorf-ch12d09"
+    },
+    "code": {
+      "id": "CH12D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.487",
+      "lon": "8.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dietikon",
+      "en": "Dietikon",
+      "slug": "dietikon-ch12d06"
+    },
+    "code": {
+      "id": "CH12D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.388",
+      "lon": "8.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hinwil",
+      "en": "Hinwil",
+      "slug": "hinwil-ch12d08"
+    },
+    "code": {
+      "id": "CH12D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.303",
+      "lon": "8.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Horgen",
+      "en": "Horgen",
+      "slug": "horgen-ch12d05"
+    },
+    "code": {
+      "id": "CH12D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.206",
+      "lon": "8.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meilen",
+      "en": "Meilen",
+      "slug": "meilen-ch12d01"
+    },
+    "code": {
+      "id": "CH12D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.314",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pfaffikon",
+      "en": "Pfaffikon",
+      "slug": "pfaffikon-ch12d03"
+    },
+    "code": {
+      "id": "CH12D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.389",
+      "lon": "8.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uster",
+      "en": "Uster",
+      "slug": "uster-ch12d07"
+    },
+    "code": {
+      "id": "CH12D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.357",
+      "lon": "8.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Winterthur",
+      "en": "Winterthur",
+      "slug": "winterthur-ch12d11"
+    },
+    "code": {
+      "id": "CH12D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.512",
+      "lon": "8.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D12",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zurich",
+      "en": "Zurich",
+      "slug": "zurich-ch12d12"
+    },
+    "code": {
+      "id": "CH12D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.381",
+      "lon": "8.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH12D13",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zurich (unincorporated)",
+      "en": "Zurich (unincorporated)",
+      "slug": "zurich-unincorporated-ch12d13"
+    },
+    "code": {
+      "id": "CH12D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH12",
+        "level": 1,
+        "name": {
+          "local": "Zürich",
+          "en": "Zurich",
+          "slug": "zurich-ch12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.233",
+      "lon": "8.699"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "CH14D01",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Entlebuch",
+    "en": "Entlebuch",
+    "slug": "entlebuch-ch14d01"
+  },
+  "code": {
+    "id": "CH14D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH14",
+    "level": 1,
+    "name": {
+      "local": "Luzern",
+      "en": "Lucerne",
+      "slug": "lucerne-ch14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.919",
+    "lon": "8"
+  },
+  "metadata": {},
+  "source": {}
+}

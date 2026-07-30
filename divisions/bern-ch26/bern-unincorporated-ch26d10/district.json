@@ -1,0 +1,45 @@
+{
+  "id": "CH26D10",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bern (unincorporated)",
+    "en": "Bern (unincorporated)",
+    "slug": "bern-unincorporated-ch26d10"
+  },
+  "code": {
+    "id": "CH26D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH26",
+    "level": 1,
+    "name": {
+      "local": "Bern",
+      "en": "Bern",
+      "slug": "bern-ch26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.688",
+    "lon": "7.721"
+  },
+  "metadata": {},
+  "source": {}
+}

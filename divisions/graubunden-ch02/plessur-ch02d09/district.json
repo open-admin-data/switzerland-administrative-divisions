@@ -1,0 +1,45 @@
+{
+  "id": "CH02D09",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Plessur",
+    "en": "Plessur",
+    "slug": "plessur-ch02d09"
+  },
+  "code": {
+    "id": "CH02D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH02",
+    "level": 1,
+    "name": {
+      "local": "Graubünden",
+      "en": "Graubunden",
+      "slug": "graubunden-ch02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.806",
+    "lon": "9.636"
+  },
+  "metadata": {},
+  "source": {}
+}

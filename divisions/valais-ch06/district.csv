@@ -1,0 +1,14 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+CH06D09,Brig,Brig,brig-ch06d09,CH06D09,46.186,8.074
+CH06D06,Conthey,Conthey,conthey-ch06d06,CH06D06,46.247,7.249
+CH06D03,Entremont,Entremont,entremont-ch06d03,CH06D03,46,7.209
+CH06D10,Goms,Goms,goms-ch06d10,CH06D10,46.444,8.212
+CH06D08,Herens,Herens,herens-ch06d08,CH06D08,46.078,7.456
+CH06D01,Leuk,Leuk,leuk-ch06d01,CH06D01,46.313,7.663
+CH06D12,Martigny,Martigny,martigny-ch06d12,CH06D12,46.165,7.14
+CH06D13,Monthey,Monthey,monthey-ch06d13,CH06D13,46.247,6.909
+CH06D11,Raron,Raron,raron-ch06d11,CH06D11,46.372,7.804
+CH06D07,Saint-Maurice,Saint-Maurice,saint-maurice-ch06d07,CH06D07,46.151,6.995
+CH06D02,Sierre,Sierre,sierre-ch06d02,CH06D02,46.163,7.592
+CH06D04,Sion,Sion,sion-ch06d04,CH06D04,46.25,7.356
+CH06D05,Visp,Visp,visp-ch06d05,CH06D05,46.123,7.877

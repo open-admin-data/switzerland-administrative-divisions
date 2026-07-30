@@ -1,0 +1,33 @@
+{
+  "id": "CH14",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Luzern",
+    "en": "Lucerne",
+    "slug": "lucerne-ch14"
+  },
+  "code": {
+    "id": "CH14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.093",
+    "lon": "8.077"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/lucerne-ch14/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

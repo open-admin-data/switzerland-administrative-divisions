@@ -1,0 +1,28 @@
+# Data from Open Admin Data (https://openadmindata.org/ch/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/switzerland-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.canton,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+CH01,1,Kanton,Canton,Glarus,Glarus,glarus-ch01,CH01,,,,,,1,,46.978,9.063,https://openadmindata.org/ch/cantons/glarus-ch01/
+CH02,1,Kanton,Canton,Graubünden,Graubunden,graubunden-ch02,CH02,,,,,,11,,46.674,9.719,https://openadmindata.org/ch/cantons/graubunden-ch02/
+CH03,1,Kanton,Canton,Zug,Zug,zug-ch03,CH03,,,,,,1,,47.157,8.537,https://openadmindata.org/ch/cantons/zug-ch03/
+CH04,1,Kanton,Canton,Ticino,Ticino,ticino-ch04,CH04,,,,,,8,,46.332,8.815,https://openadmindata.org/ch/cantons/ticino-ch04/
+CH05,1,Kanton,Canton,Appenzell Innerrhoden,Appenzell Innerrhoden,appenzell-innerrhoden-ch05,CH05,,,,,,1,,47.307,9.402,https://openadmindata.org/ch/cantons/appenzell-innerrhoden-ch05/
+CH06,1,Kanton,Canton,Valais,Valais,valais-ch06,CH06,,,,,,13,,46.196,7.677,https://openadmindata.org/ch/cantons/valais-ch06/
+CH07,1,Kanton,Canton,Schaffhausen,Schaffhausen,schaffhausen-ch07,CH07,,,,,,6,,47.725,8.562,https://openadmindata.org/ch/cantons/schaffhausen-ch07/
+CH08,1,Kanton,Canton,Genève,Geneva,geneva-ch08,CH08,,,,,,1,,46.196,6.128,https://openadmindata.org/ch/cantons/geneva-ch08/
+CH09,1,Kanton,Canton,Basel-Stadt,Basel-City,basel-city-ch09,CH09,,,,,,1,,47.558,7.599,https://openadmindata.org/ch/cantons/basel-city-ch09/
+CH10,1,Kanton,Canton,Fribourg,Fribourg,fribourg-ch10,CH10,,,,,,7,,46.693,7.101,https://openadmindata.org/ch/cantons/fribourg-ch10/
+CH11,1,Kanton,Canton,Schwyz,Schwyz,schwyz-ch11,CH11,,,,,,6,,47.063,8.777,https://openadmindata.org/ch/cantons/schwyz-ch11/
+CH12,1,Kanton,Canton,Zürich,Zurich,zurich-ch12,CH12,,,,,,13,,47.39,8.661,https://openadmindata.org/ch/cantons/zurich-ch12/
+CH13,1,Kanton,Canton,Nidwalden,Nidwalden,nidwalden-ch13,CH13,,,,,,1,,46.933,8.405,https://openadmindata.org/ch/cantons/nidwalden-ch13/
+CH14,1,Kanton,Canton,Luzern,Lucerne,lucerne-ch14,CH14,,,,,,6,,47.093,8.077,https://openadmindata.org/ch/cantons/lucerne-ch14/
+CH15,1,Kanton,Canton,Vaud,Vaud,vaud-ch15,CH15,,,,,,11,,46.643,6.59,https://openadmindata.org/ch/cantons/vaud-ch15/
+CH16,1,Kanton,Canton,Aargau,Aargau,aargau-ch16,CH16,,,,,,11,,47.43,8.182,https://openadmindata.org/ch/cantons/aargau-ch16/
+CH17,1,Kanton,Canton,Thurgau,Thurgau,thurgau-ch17,CH17,,,,,,6,,47.587,9.063,https://openadmindata.org/ch/cantons/thurgau-ch17/
+CH18,1,Kanton,Canton,St. Gallen,Saint Gallen,saint-gallen-ch18,CH18,,,,,,9,,47.115,9.331,https://openadmindata.org/ch/cantons/saint-gallen-ch18/
+CH19,1,Kanton,Canton,Jura,Jura,jura-ch19,CH19,,,,,,3,,47.374,7.132,https://openadmindata.org/ch/cantons/jura-ch19/
+CH20,1,Kanton,Canton,Appenzell Ausserrhoden,Appenzell Ausserrhoden,appenzell-ausserrhoden-ch20,CH20,,,,,,3,,47.355,9.274,https://openadmindata.org/ch/cantons/appenzell-ausserrhoden-ch20/
+CH21,1,Kanton,Canton,Neuchâtel,Neuchatel,neuchatel-ch21,CH21,,,,,,1,,47.002,6.807,https://openadmindata.org/ch/cantons/neuchatel-ch21/
+CH22,1,Kanton,Canton,Basel-Landschaft,Basel-Country,basel-country-ch22,CH22,,,,,,5,,47.431,7.775,https://openadmindata.org/ch/cantons/basel-country-ch22/
+CH23,1,Kanton,Canton,Solothurn,Solothurn,solothurn-ch23,CH23,,,,,,10,,47.23,7.535,https://openadmindata.org/ch/cantons/solothurn-ch23/
+CH24,1,Kanton,Canton,Obwalden,Obwalden,obwalden-ch24,CH24,,,,,,1,,46.865,8.225,https://openadmindata.org/ch/cantons/obwalden-ch24/
+CH25,1,Kanton,Canton,Uri,Uri,uri-ch25,CH25,,,,,,1,,46.812,8.629,https://openadmindata.org/ch/cantons/uri-ch25/
+CH26,1,Kanton,Canton,Bern,Bern,bern-ch26,CH26,,,,,,11,,46.796,7.613,https://openadmindata.org/ch/cantons/bern-ch26/

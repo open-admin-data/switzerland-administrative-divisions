@@ -1,0 +1,45 @@
+{
+  "id": "CH14D03",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sursee",
+    "en": "Sursee",
+    "slug": "sursee-ch14d03"
+  },
+  "code": {
+    "id": "CH14D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH14",
+    "level": 1,
+    "name": {
+      "local": "Luzern",
+      "en": "Lucerne",
+      "slug": "lucerne-ch14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH14",
+      "level": 1,
+      "name": {
+        "local": "Luzern",
+        "en": "Lucerne",
+        "slug": "lucerne-ch14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.155",
+    "lon": "8.138"
+  },
+  "metadata": {},
+  "source": {}
+}

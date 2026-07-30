@@ -1,0 +1,45 @@
+{
+  "id": "CH07D06",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Stein",
+    "en": "Stein",
+    "slug": "stein-ch07d06"
+  },
+  "code": {
+    "id": "CH07D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH07",
+    "level": 1,
+    "name": {
+      "local": "Schaffhausen",
+      "en": "Schaffhausen",
+      "slug": "schaffhausen-ch07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.693",
+    "lon": "8.83"
+  },
+  "metadata": {},
+  "source": {}
+}

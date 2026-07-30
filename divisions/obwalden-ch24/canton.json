@@ -1,0 +1,33 @@
+{
+  "id": "CH24",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Obwalden",
+    "en": "Obwalden",
+    "slug": "obwalden-ch24"
+  },
+  "code": {
+    "id": "CH24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.865",
+    "lon": "8.225"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/obwalden-ch24/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

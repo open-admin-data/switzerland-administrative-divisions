@@ -1,0 +1,45 @@
+{
+  "id": "CH10D03",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sense",
+    "en": "Sense",
+    "slug": "sense-ch10d03"
+  },
+  "code": {
+    "id": "CH10D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH10",
+    "level": 1,
+    "name": {
+      "local": "Fribourg",
+      "en": "Fribourg",
+      "slug": "fribourg-ch10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.832",
+    "lon": "7.244"
+  },
+  "metadata": {},
+  "source": {}
+}

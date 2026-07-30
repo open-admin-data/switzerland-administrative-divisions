@@ -1,0 +1,45 @@
+{
+  "id": "CH04D07",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Blenio",
+    "en": "Blenio",
+    "slug": "blenio-ch04d07"
+  },
+  "code": {
+    "id": "CH04D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH04",
+    "level": 1,
+    "name": {
+      "local": "Ticino",
+      "en": "Ticino",
+      "slug": "ticino-ch04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.504",
+    "lon": "8.942"
+  },
+  "metadata": {},
+  "source": {}
+}

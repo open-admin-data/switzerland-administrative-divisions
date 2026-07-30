@@ -1,0 +1,497 @@
+[
+  {
+    "id": "CH16D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aarau",
+      "en": "Aarau",
+      "slug": "aarau-ch16d09"
+    },
+    "code": {
+      "id": "CH16D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.386",
+      "lon": "8.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baden",
+      "en": "Baden",
+      "slug": "baden-ch16d03"
+    },
+    "code": {
+      "id": "CH16D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.453",
+      "lon": "8.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bremgarten",
+      "en": "Bremgarten",
+      "slug": "bremgarten-ch16d05"
+    },
+    "code": {
+      "id": "CH16D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.37",
+      "lon": "8.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brugg",
+      "en": "Brugg",
+      "slug": "brugg-ch16d10"
+    },
+    "code": {
+      "id": "CH16D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.486",
+      "lon": "8.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kulm",
+      "en": "Kulm",
+      "slug": "kulm-ch16d08"
+    },
+    "code": {
+      "id": "CH16D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.291",
+      "lon": "8.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Laufenburg",
+      "en": "Laufenburg",
+      "slug": "laufenburg-ch16d07"
+    },
+    "code": {
+      "id": "CH16D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.507",
+      "lon": "8.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lenzburg",
+      "en": "Lenzburg",
+      "slug": "lenzburg-ch16d11"
+    },
+    "code": {
+      "id": "CH16D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.375",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muri",
+      "en": "Muri",
+      "slug": "muri-ch16d01"
+    },
+    "code": {
+      "id": "CH16D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.252",
+      "lon": "8.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rheinfelden",
+      "en": "Rheinfelden",
+      "slug": "rheinfelden-ch16d06"
+    },
+    "code": {
+      "id": "CH16D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.556",
+      "lon": "7.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zofingen",
+      "en": "Zofingen",
+      "slug": "zofingen-ch16d04"
+    },
+    "code": {
+      "id": "CH16D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.28",
+      "lon": "7.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH16D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zurzach",
+      "en": "Zurzach",
+      "slug": "zurzach-ch16d02"
+    },
+    "code": {
+      "id": "CH16D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH16",
+        "level": 1,
+        "name": {
+          "local": "Aargau",
+          "en": "Aargau",
+          "slug": "aargau-ch16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.548",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

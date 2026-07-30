@@ -1,0 +1,45 @@
+{
+  "id": "CH06D01",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Leuk",
+    "en": "Leuk",
+    "slug": "leuk-ch06d01"
+  },
+  "code": {
+    "id": "CH06D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH06",
+    "level": 1,
+    "name": {
+      "local": "Valais",
+      "en": "Valais",
+      "slug": "valais-ch06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH06",
+      "level": 1,
+      "name": {
+        "local": "Valais",
+        "en": "Valais",
+        "slug": "valais-ch06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.313",
+    "lon": "7.663"
+  },
+  "metadata": {},
+  "source": {}
+}

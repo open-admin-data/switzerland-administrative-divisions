@@ -1,0 +1,452 @@
+[
+  {
+    "id": "CH23D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bucheggberg",
+      "en": "Bucheggberg",
+      "slug": "bucheggberg-ch23d05"
+    },
+    "code": {
+      "id": "CH23D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.13",
+      "lon": "7.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dorneck",
+      "en": "Dorneck",
+      "slug": "dorneck-ch23d08"
+    },
+    "code": {
+      "id": "CH23D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.45",
+      "lon": "7.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gau",
+      "en": "Gau",
+      "slug": "gau-ch23d06"
+    },
+    "code": {
+      "id": "CH23D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.298",
+      "lon": "7.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gosgen",
+      "en": "Gosgen",
+      "slug": "gosgen-ch23d04"
+    },
+    "code": {
+      "id": "CH23D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.387",
+      "lon": "7.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebern",
+      "en": "Lebern",
+      "slug": "lebern-ch23d02"
+    },
+    "code": {
+      "id": "CH23D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.221",
+      "lon": "7.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Olten",
+      "en": "Olten",
+      "slug": "olten-ch23d03"
+    },
+    "code": {
+      "id": "CH23D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.335",
+      "lon": "7.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Solothurn",
+      "en": "Solothurn",
+      "slug": "solothurn-ch23d07"
+    },
+    "code": {
+      "id": "CH23D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.21",
+      "lon": "7.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thal",
+      "en": "Thal",
+      "slug": "thal-ch23d01"
+    },
+    "code": {
+      "id": "CH23D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.316",
+      "lon": "7.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thierstein",
+      "en": "Thierstein",
+      "slug": "thierstein-ch23d09"
+    },
+    "code": {
+      "id": "CH23D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.378",
+      "lon": "7.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH23D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wasseramt",
+      "en": "Wasseramt",
+      "slug": "wasseramt-ch23d10"
+    },
+    "code": {
+      "id": "CH23D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH23",
+      "level": 1,
+      "name": {
+        "local": "Solothurn",
+        "en": "Solothurn",
+        "slug": "solothurn-ch23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH23",
+        "level": 1,
+        "name": {
+          "local": "Solothurn",
+          "en": "Solothurn",
+          "slug": "solothurn-ch23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.191",
+      "lon": "7.599"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

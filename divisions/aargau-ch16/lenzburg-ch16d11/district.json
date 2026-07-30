@@ -1,0 +1,45 @@
+{
+  "id": "CH16D11",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lenzburg",
+    "en": "Lenzburg",
+    "slug": "lenzburg-ch16d11"
+  },
+  "code": {
+    "id": "CH16D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH16",
+    "level": 1,
+    "name": {
+      "local": "Aargau",
+      "en": "Aargau",
+      "slug": "aargau-ch16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH16",
+      "level": 1,
+      "name": {
+        "local": "Aargau",
+        "en": "Aargau",
+        "slug": "aargau-ch16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.375",
+    "lon": "8.178"
+  },
+  "metadata": {},
+  "source": {}
+}

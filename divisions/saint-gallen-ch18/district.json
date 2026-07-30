@@ -1,0 +1,407 @@
+[
+  {
+    "id": "CH18D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rheintal",
+      "en": "Rheintal",
+      "slug": "rheintal-ch18d08"
+    },
+    "code": {
+      "id": "CH18D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.348",
+      "lon": "9.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rorschach",
+      "en": "Rorschach",
+      "slug": "rorschach-ch18d05"
+    },
+    "code": {
+      "id": "CH18D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.468",
+      "lon": "9.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sankt Gallen (unincorporated)",
+      "en": "Sankt Gallen (unincorporated)",
+      "slug": "sankt-gallen-unincorporated-ch18d09"
+    },
+    "code": {
+      "id": "CH18D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.514",
+      "lon": "9.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarganserland",
+      "en": "Sarganserland",
+      "slug": "sarganserland-ch18d07"
+    },
+    "code": {
+      "id": "CH18D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.004",
+      "lon": "9.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "See-Gaster",
+      "en": "See-Gaster",
+      "slug": "see-gaster-ch18d03"
+    },
+    "code": {
+      "id": "CH18D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.21",
+      "lon": "9.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "St. Gallen",
+      "en": "St. Gallen",
+      "slug": "st-gallen-ch18d04"
+    },
+    "code": {
+      "id": "CH18D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.443",
+      "lon": "9.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toggenburg",
+      "en": "Toggenburg",
+      "slug": "toggenburg-ch18d02"
+    },
+    "code": {
+      "id": "CH18D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.321",
+      "lon": "9.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Werdenberg",
+      "en": "Werdenberg",
+      "slug": "werdenberg-ch18d01"
+    },
+    "code": {
+      "id": "CH18D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.169",
+      "lon": "9.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH18D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wil",
+      "en": "Wil",
+      "slug": "wil-ch18d06"
+    },
+    "code": {
+      "id": "CH18D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH18",
+        "level": 1,
+        "name": {
+          "local": "St. Gallen",
+          "en": "Saint Gallen",
+          "slug": "saint-gallen-ch18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.444",
+      "lon": "9.144"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

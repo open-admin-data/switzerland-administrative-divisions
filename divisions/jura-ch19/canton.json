@@ -1,0 +1,33 @@
+{
+  "id": "CH19",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Jura",
+    "en": "Jura",
+    "slug": "jura-ch19"
+  },
+  "code": {
+    "id": "CH19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.374",
+    "lon": "7.132"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/jura-ch19/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

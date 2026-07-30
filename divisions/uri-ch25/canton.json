@@ -1,0 +1,33 @@
+{
+  "id": "CH25",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Uri",
+    "en": "Uri",
+    "slug": "uri-ch25"
+  },
+  "code": {
+    "id": "CH25",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.812",
+    "lon": "8.629"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/uri-ch25/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

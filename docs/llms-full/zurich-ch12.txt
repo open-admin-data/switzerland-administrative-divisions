@@ -1,0 +1,74 @@
+# Zurich — Switzerland Administrative Divisions
+
+> 13 districts
+> Code: CH12
+> Coordinates: 47.39, 8.661
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Affoltern
+
+Code: CH12D02, Coordinates: 47.267, 8.46
+
+
+### Andelfingen
+
+Code: CH12D04, Coordinates: 47.612, 8.666
+
+
+### Bulach
+
+Code: CH12D10, Coordinates: 47.511, 8.572
+
+
+### Dielsdorf
+
+Code: CH12D09, Coordinates: 47.487, 8.431
+
+
+### Dietikon
+
+Code: CH12D06, Coordinates: 47.388, 8.425
+
+
+### Hinwil
+
+Code: CH12D08, Coordinates: 47.303, 8.869
+
+
+### Horgen
+
+Code: CH12D05, Coordinates: 47.206, 8.648
+
+
+### Meilen
+
+Code: CH12D01, Coordinates: 47.314, 8.621
+
+
+### Pfaffikon
+
+Code: CH12D03, Coordinates: 47.389, 8.796
+
+
+### Uster
+
+Code: CH12D07, Coordinates: 47.357, 8.718
+
+
+### Winterthur
+
+Code: CH12D11, Coordinates: 47.512, 8.788
+
+
+### Zurich
+
+Code: CH12D12, Coordinates: 47.381, 8.531
+
+
+### Zurich (unincorporated)
+
+Code: CH12D13, Coordinates: 47.233, 8.699
+
+

@@ -1,0 +1,24 @@
+# Appenzell Ausserrhoden — Switzerland Administrative Divisions
+
+> 3 districts
+> Code: CH20
+> Coordinates: 47.355, 9.274
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Hinterland
+
+Code: CH20D01, Coordinates: 47.354, 9.276
+
+
+### Mittelland
+
+Code: CH20D02, Coordinates: 47.385, 9.459
+
+
+### Vorderland
+
+Code: CH20D03, Coordinates: 47.424, 9.501
+
+

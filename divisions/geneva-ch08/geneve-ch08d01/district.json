@@ -1,0 +1,45 @@
+{
+  "id": "CH08D01",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Genève",
+    "en": "Genève",
+    "slug": "geneve-ch08d01"
+  },
+  "code": {
+    "id": "CH08D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH08",
+    "level": 1,
+    "name": {
+      "local": "Genève",
+      "en": "Geneva",
+      "slug": "geneva-ch08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH08",
+      "level": 1,
+      "name": {
+        "local": "Genève",
+        "en": "Geneva",
+        "slug": "geneva-ch08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.196",
+    "lon": "6.128"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "CH23",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Solothurn",
+    "en": "Solothurn",
+    "slug": "solothurn-ch23"
+  },
+  "code": {
+    "id": "CH23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.23",
+    "lon": "7.535"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/solothurn-ch23/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

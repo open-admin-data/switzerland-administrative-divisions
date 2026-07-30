@@ -1,0 +1,45 @@
+{
+  "id": "CH26D06",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jura bernois",
+    "en": "Jura bernois",
+    "slug": "jura-bernois-ch26d06"
+  },
+  "code": {
+    "id": "CH26D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH26",
+    "level": 1,
+    "name": {
+      "local": "Bern",
+      "en": "Bern",
+      "slug": "bern-ch26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH26",
+      "level": 1,
+      "name": {
+        "local": "Bern",
+        "en": "Bern",
+        "slug": "bern-ch26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.217",
+    "lon": "7.21"
+  },
+  "metadata": {},
+  "source": {}
+}

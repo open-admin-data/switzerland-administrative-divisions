@@ -1,0 +1,362 @@
+[
+  {
+    "id": "CH04D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bellinzona",
+      "en": "Bellinzona",
+      "slug": "bellinzona-ch04d06"
+    },
+    "code": {
+      "id": "CH04D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.202",
+      "lon": "9.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blenio",
+      "en": "Blenio",
+      "slug": "blenio-ch04d07"
+    },
+    "code": {
+      "id": "CH04D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.504",
+      "lon": "8.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leventina",
+      "en": "Leventina",
+      "slug": "leventina-ch04d02"
+    },
+    "code": {
+      "id": "CH04D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.455",
+      "lon": "8.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Locarno",
+      "en": "Locarno",
+      "slug": "locarno-ch04d05"
+    },
+    "code": {
+      "id": "CH04D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.2",
+      "lon": "8.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lugano",
+      "en": "Lugano",
+      "slug": "lugano-ch04d01"
+    },
+    "code": {
+      "id": "CH04D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.052",
+      "lon": "8.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mendrisio",
+      "en": "Mendrisio",
+      "slug": "mendrisio-ch04d08"
+    },
+    "code": {
+      "id": "CH04D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.874",
+      "lon": "8.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Riviera",
+      "en": "Riviera",
+      "slug": "riviera-ch04d03"
+    },
+    "code": {
+      "id": "CH04D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.334",
+      "lon": "9.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH04D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vallemaggia",
+      "en": "Vallemaggia",
+      "slug": "vallemaggia-ch04d04"
+    },
+    "code": {
+      "id": "CH04D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH04",
+        "level": 1,
+        "name": {
+          "local": "Ticino",
+          "en": "Ticino",
+          "slug": "ticino-ch04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.372",
+      "lon": "8.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "CH12D04",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Andelfingen",
+    "en": "Andelfingen",
+    "slug": "andelfingen-ch12d04"
+  },
+  "code": {
+    "id": "CH12D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH12",
+    "level": 1,
+    "name": {
+      "local": "Zürich",
+      "en": "Zurich",
+      "slug": "zurich-ch12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH12",
+      "level": 1,
+      "name": {
+        "local": "Zürich",
+        "en": "Zurich",
+        "slug": "zurich-ch12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.612",
+    "lon": "8.666"
+  },
+  "metadata": {},
+  "source": {}
+}

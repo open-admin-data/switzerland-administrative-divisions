@@ -1,0 +1,64 @@
+# Vaud — Switzerland Administrative Divisions
+
+> 11 districts
+> Code: CH15
+> Coordinates: 46.643, 6.59
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Aigle
+
+Code: CH15D01, Coordinates: 46.313, 7.067
+
+
+### Broye-Vully
+
+Code: CH15D07, Coordinates: 46.698, 6.837
+
+
+### Gros-de-Vaud
+
+Code: CH15D06, Coordinates: 46.656, 6.679
+
+
+### Jura-Nord vaudois
+
+Code: CH15D02, Coordinates: 46.779, 6.549
+
+
+### Lausanne
+
+Code: CH15D08, Coordinates: 46.542, 6.639
+
+
+### Lavaux-Oron
+
+Code: CH15D10, Coordinates: 46.541, 6.759
+
+
+### Morges
+
+Code: CH15D05, Coordinates: 46.565, 6.413
+
+
+### Nyon
+
+Code: CH15D11, Coordinates: 46.444, 6.198
+
+
+### Ouest lausannois
+
+Code: CH15D03, Coordinates: 46.539, 6.57
+
+
+### Riviera-Pays-d&#39;Enhaut
+
+Code: CH15D04, Coordinates: 46.451, 7.143
+
+
+### Vaud (unincorporated)
+
+Code: CH15D09, Coordinates: 46.487, 6.583
+
+

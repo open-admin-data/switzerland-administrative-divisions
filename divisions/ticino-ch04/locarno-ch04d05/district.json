@@ -1,0 +1,45 @@
+{
+  "id": "CH04D05",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Locarno",
+    "en": "Locarno",
+    "slug": "locarno-ch04d05"
+  },
+  "code": {
+    "id": "CH04D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH04",
+    "level": 1,
+    "name": {
+      "local": "Ticino",
+      "en": "Ticino",
+      "slug": "ticino-ch04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.2",
+    "lon": "8.858"
+  },
+  "metadata": {},
+  "source": {}
+}

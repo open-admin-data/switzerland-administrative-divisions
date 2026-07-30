@@ -1,0 +1,33 @@
+{
+  "id": "CH04",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Ticino",
+    "en": "Ticino",
+    "slug": "ticino-ch04"
+  },
+  "code": {
+    "id": "CH04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.332",
+    "lon": "8.815"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/ticino-ch04/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

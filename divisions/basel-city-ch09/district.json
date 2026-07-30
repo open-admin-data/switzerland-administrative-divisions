@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CH09D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Basel-Stadt (unincorporated)",
+      "en": "Basel-Stadt (unincorporated)",
+      "slug": "basel-stadt-unincorporated-ch09d01"
+    },
+    "code": {
+      "id": "CH09D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH09",
+      "level": 1,
+      "name": {
+        "local": "Basel-Stadt",
+        "en": "Basel-City",
+        "slug": "basel-city-ch09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH09",
+        "level": 1,
+        "name": {
+          "local": "Basel-Stadt",
+          "en": "Basel-City",
+          "slug": "basel-city-ch09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.558",
+      "lon": "7.599"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

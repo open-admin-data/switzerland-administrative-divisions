@@ -1,0 +1,39 @@
+# Lucerne — Switzerland Administrative Divisions
+
+> 6 districts
+> Code: CH14
+> Coordinates: 47.093, 8.077
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Entlebuch
+
+Code: CH14D01, Coordinates: 46.919, 8
+
+
+### Hochdorf
+
+Code: CH14D05, Coordinates: 47.171, 8.294
+
+
+### Luzern-Land
+
+Code: CH14D04, Coordinates: 47.022, 8.269
+
+
+### Luzern-Stadt
+
+Code: CH14D06, Coordinates: 47.051, 8.309
+
+
+### Sursee
+
+Code: CH14D03, Coordinates: 47.155, 8.138
+
+
+### Willisau
+
+Code: CH14D02, Coordinates: 47.165, 7.956
+
+

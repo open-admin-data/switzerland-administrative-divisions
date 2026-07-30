@@ -1,0 +1,45 @@
+{
+  "id": "CH10D01",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "See",
+    "en": "See",
+    "slug": "see-ch10d01"
+  },
+  "code": {
+    "id": "CH10D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH10",
+    "level": 1,
+    "name": {
+      "local": "Fribourg",
+      "en": "Fribourg",
+      "slug": "fribourg-ch10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH10",
+      "level": 1,
+      "name": {
+        "local": "Fribourg",
+        "en": "Fribourg",
+        "slug": "fribourg-ch10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.939",
+    "lon": "7.165"
+  },
+  "metadata": {},
+  "source": {}
+}

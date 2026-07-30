@@ -1,0 +1,45 @@
+{
+  "id": "CH11D04",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Schwyz",
+    "en": "Schwyz",
+    "slug": "schwyz-ch11d04"
+  },
+  "code": {
+    "id": "CH11D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH11",
+    "level": 1,
+    "name": {
+      "local": "Schwyz",
+      "en": "Schwyz",
+      "slug": "schwyz-ch11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH11",
+      "level": 1,
+      "name": {
+        "local": "Schwyz",
+        "en": "Schwyz",
+        "slug": "schwyz-ch11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.019",
+    "lon": "8.69"
+  },
+  "metadata": {},
+  "source": {}
+}

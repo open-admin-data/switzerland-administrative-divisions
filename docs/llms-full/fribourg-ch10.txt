@@ -1,0 +1,44 @@
+# Fribourg — Switzerland Administrative Divisions
+
+> 7 districts
+> Code: CH10
+> Coordinates: 46.693, 7.101
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### La Broye
+
+Code: CH10D04, Coordinates: 46.904, 6.954
+
+
+### La Glane
+
+Code: CH10D02, Coordinates: 46.675, 6.919
+
+
+### La Gruyere
+
+Code: CH10D05, Coordinates: 46.616, 7.118
+
+
+### La Sarine
+
+Code: CH10D07, Coordinates: 46.779, 7.084
+
+
+### La Veveyse
+
+Code: CH10D06, Coordinates: 46.545, 6.938
+
+
+### See
+
+Code: CH10D01, Coordinates: 46.939, 7.165
+
+
+### Sense
+
+Code: CH10D03, Coordinates: 46.832, 7.244
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "CH18D08",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rheintal",
+    "en": "Rheintal",
+    "slug": "rheintal-ch18d08"
+  },
+  "code": {
+    "id": "CH18D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH18",
+    "level": 1,
+    "name": {
+      "local": "St. Gallen",
+      "en": "Saint Gallen",
+      "slug": "saint-gallen-ch18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH18",
+      "level": 1,
+      "name": {
+        "local": "St. Gallen",
+        "en": "Saint Gallen",
+        "slug": "saint-gallen-ch18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.348",
+    "lon": "9.55"
+  },
+  "metadata": {},
+  "source": {}
+}

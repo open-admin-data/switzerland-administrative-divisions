@@ -1,0 +1,34 @@
+# Basel-Country — Switzerland Administrative Divisions
+
+> 5 districts
+> Code: CH22
+> Coordinates: 47.431, 7.775
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Districts
+
+### Arlesheim
+
+Code: CH22D05, Coordinates: 47.49, 7.573
+
+
+### Laufen
+
+Code: CH22D01, Coordinates: 47.428, 7.495
+
+
+### Liestal
+
+Code: CH22D04, Coordinates: 47.487, 7.742
+
+
+### Sissach
+
+Code: CH22D02, Coordinates: 47.455, 7.866
+
+
+### Waldenburg
+
+Code: CH22D03, Coordinates: 47.388, 7.767
+
+

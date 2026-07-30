@@ -1,0 +1,33 @@
+{
+  "id": "CH22",
+  "level": 1,
+  "level_name": {
+    "local": "Kanton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Basel-Landschaft",
+    "en": "Basel-Country",
+    "slug": "basel-country-ch22"
+  },
+  "code": {
+    "id": "CH22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.431",
+    "lon": "7.775"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ch/cantons/basel-country-ch22/",
+    "api": "https://openadmindata.org/api/ch/"
+  }
+}

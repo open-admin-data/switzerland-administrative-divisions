@@ -1,0 +1,45 @@
+{
+  "id": "CH04D03",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Riviera",
+    "en": "Riviera",
+    "slug": "riviera-ch04d03"
+  },
+  "code": {
+    "id": "CH04D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH04",
+    "level": 1,
+    "name": {
+      "local": "Ticino",
+      "en": "Ticino",
+      "slug": "ticino-ch04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH04",
+      "level": 1,
+      "name": {
+        "local": "Ticino",
+        "en": "Ticino",
+        "slug": "ticino-ch04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.334",
+    "lon": "9.005"
+  },
+  "metadata": {},
+  "source": {}
+}

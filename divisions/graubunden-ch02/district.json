@@ -1,0 +1,497 @@
+[
+  {
+    "id": "CH02D07",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Albula",
+      "en": "Albula",
+      "slug": "albula-ch02d07"
+    },
+    "code": {
+      "id": "CH02D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.618",
+      "lon": "9.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D02",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bernina",
+      "en": "Bernina",
+      "slug": "bernina-ch02d02"
+    },
+    "code": {
+      "id": "CH02D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.349",
+      "lon": "10.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D10",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Engiadina Bassa/Val Mustair",
+      "en": "Engiadina Bassa/Val Mustair",
+      "slug": "engiadina-bassa-val-mustair-ch02d10"
+    },
+    "code": {
+      "id": "CH02D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.752",
+      "lon": "10.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D04",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Imboden",
+      "en": "Imboden",
+      "slug": "imboden-ch02d04"
+    },
+    "code": {
+      "id": "CH02D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.84",
+      "lon": "9.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D06",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Landquart",
+      "en": "Landquart",
+      "slug": "landquart-ch02d06"
+    },
+    "code": {
+      "id": "CH02D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.935",
+      "lon": "9.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D05",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maloja",
+      "en": "Maloja",
+      "slug": "maloja-ch02d05"
+    },
+    "code": {
+      "id": "CH02D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.464",
+      "lon": "9.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D08",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moesa",
+      "en": "Moesa",
+      "slug": "moesa-ch02d08"
+    },
+    "code": {
+      "id": "CH02D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.34",
+      "lon": "9.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D09",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Plessur",
+      "en": "Plessur",
+      "slug": "plessur-ch02d09"
+    },
+    "code": {
+      "id": "CH02D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.806",
+      "lon": "9.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D03",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Prattigau/Davos",
+      "en": "Prattigau/Davos",
+      "slug": "prattigau-davos-ch02d03"
+    },
+    "code": {
+      "id": "CH02D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.948",
+      "lon": "9.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D01",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Surselva",
+      "en": "Surselva",
+      "slug": "surselva-ch02d01"
+    },
+    "code": {
+      "id": "CH02D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.716",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH02D11",
+    "level": 2,
+    "level_name": {
+      "local": "Bezirk",
+      "en": "District"
+    },
+    "name": {
+      "local": "Viamala",
+      "en": "Viamala",
+      "slug": "viamala-ch02d11"
+    },
+    "code": {
+      "id": "CH02D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH02",
+      "level": 1,
+      "name": {
+        "local": "Graubünden",
+        "en": "Graubunden",
+        "slug": "graubunden-ch02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH02",
+        "level": 1,
+        "name": {
+          "local": "Graubünden",
+          "en": "Graubunden",
+          "slug": "graubunden-ch02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.581",
+      "lon": "9.403"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

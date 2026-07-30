@@ -1,0 +1,45 @@
+{
+  "id": "CH07D01",
+  "level": 2,
+  "level_name": {
+    "local": "Bezirk",
+    "en": "District"
+  },
+  "name": {
+    "local": "Unterklettgau",
+    "en": "Unterklettgau",
+    "slug": "unterklettgau-ch07d01"
+  },
+  "code": {
+    "id": "CH07D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH07",
+    "level": 1,
+    "name": {
+      "local": "Schaffhausen",
+      "en": "Schaffhausen",
+      "slug": "schaffhausen-ch07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH07",
+      "level": 1,
+      "name": {
+        "local": "Schaffhausen",
+        "en": "Schaffhausen",
+        "slug": "schaffhausen-ch07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.694",
+    "lon": "8.444"
+  },
+  "metadata": {},
+  "source": {}
+}
