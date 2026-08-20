@@ -3,7 +3,7 @@
 > 1 districts
 > Code: CH05
 > Coordinates: 47.307, 9.402
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 
