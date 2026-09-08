@@ -3,7 +3,7 @@
 > 1 districts
 > Code: CH24
 > Coordinates: 46.865, 8.225
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 

@@ -3,7 +3,7 @@
 > 1 districts
 > Code: CH21
 > Coordinates: 47.002, 6.807
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 
